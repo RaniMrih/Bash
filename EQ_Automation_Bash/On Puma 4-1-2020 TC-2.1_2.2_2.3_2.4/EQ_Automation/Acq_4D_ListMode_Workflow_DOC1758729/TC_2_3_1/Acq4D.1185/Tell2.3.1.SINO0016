@@ -1,0 +1,452 @@
+rdfTell -h f -S /petRDFS/XOIATRMM/AVEWDJMT/ATSOLOLT/SINO0016
+RDF Frame Statistics: 
+
+   Scan Start Time = Wed Feb 19 16:31:13 2020
+   Frame Start Time = Wed Feb 19 16:33:26 2020
+   Frame Start Time (Unix) = 1582130006
+   Frame Start Time (Coinc msec) = 146933
+   frameNumber      = 1
+   binNumber        = 0
+   Frame Duration   = 98875 milliseconds
+   Termination Code = 9
+   totalPrompts     = 357694918
+   totalRandomsEstimate = 299306539
+   sorterFilteredEvts = 0
+   badCoincStreamEvts   = 0
+   acceptedTriggers = 98
+   rejectedTriggers = 0
+   bin 0 dwell = 9840
+   bin 1 dwell = 9871
+   bin 2 dwell = 9809
+   bin 3 dwell = 9840
+   bin 4 dwell = 9871
+   bin 5 dwell = 9816
+   bin 6 dwell = 9840
+   bin 7 dwell = 9809
+   bin 8 dwell = 9871
+   bin 9 dwell = 9840
+
+
+Access Method used: 
+    rdfReadAcq3dPlaneSet() 
+
+
+   Segment ID(SegGroup 1,Layout 3) DS 0 Slice Statistics
+      Slice 01 MinCounts 00000001 TotalCounts 00120049 MaxCounts 00000006    Checksum: 3369587969
+      Slice 02 MinCounts 00000001 TotalCounts 00120829 MaxCounts 00000005    Checksum: 0495310861
+      Slice 03 MinCounts 00000001 TotalCounts 00119381 MaxCounts 00000006    Checksum: 0661049957
+      Slice 04 MinCounts 00000001 TotalCounts 00120744 MaxCounts 00000005    Checksum: 2291849144
+      Slice 05 MinCounts 00000001 TotalCounts 00120644 MaxCounts 00000006    Checksum: 0309057364
+      Slice 06 MinCounts 00000001 TotalCounts 00119986 MaxCounts 00000007    Checksum: 2364986562
+      Slice 07 MinCounts 00000001 TotalCounts 00120919 MaxCounts 00000006    Checksum: 0943446119
+      Slice 08 MinCounts 00000001 TotalCounts 00120884 MaxCounts 00000005    Checksum: 1968101444
+      Slice 09 MinCounts 00000001 TotalCounts 00121196 MaxCounts 00000006    Checksum: 1359010172
+      Slice 10 MinCounts 00000001 TotalCounts 00120704 MaxCounts 00000005    Checksum: 4177254288
+      Slice 11 MinCounts 00000001 TotalCounts 00120842 MaxCounts 00000005    Checksum: 2154223642
+      Slice 12 MinCounts 00000001 TotalCounts 00121404 MaxCounts 00000005    Checksum: 1206573644
+      Slice 13 MinCounts 00000001 TotalCounts 00120815 MaxCounts 00000006    Checksum: 3027294207
+      Slice 14 MinCounts 00000001 TotalCounts 00121072 MaxCounts 00000006    Checksum: 1163450624
+      Slice 15 MinCounts 00000001 TotalCounts 00120955 MaxCounts 00000006    Checksum: 0706074763
+      Slice 16 MinCounts 00000001 TotalCounts 00121609 MaxCounts 00000006    Checksum: 0622844697
+      Slice 17 MinCounts 00000001 TotalCounts 00121752 MaxCounts 00000006    Checksum: 2114771880
+      Slice 18 MinCounts 00000001 TotalCounts 00121178 MaxCounts 00000006    Checksum: 3265649002
+      Slice 19 MinCounts 00000001 TotalCounts 00122183 MaxCounts 00000007    Checksum: 0863952215
+      Slice 20 MinCounts 00000001 TotalCounts 00122385 MaxCounts 00000006    Checksum: 0807198241
+      Slice 21 MinCounts 00000001 TotalCounts 00121511 MaxCounts 00000007    Checksum: 3844528823
+      Slice 22 MinCounts 00000001 TotalCounts 00121459 MaxCounts 00000006    Checksum: 1518000771
+      Slice 23 MinCounts 00000001 TotalCounts 00122350 MaxCounts 00000007    Checksum: 1005903358
+      Slice 24 MinCounts 00000001 TotalCounts 00122795 MaxCounts 00000006    Checksum: 4193181627
+      Slice 25 MinCounts 00000001 TotalCounts 00121681 MaxCounts 00000006    Checksum: 3869236065
+      Slice 26 MinCounts 00000001 TotalCounts 00122212 MaxCounts 00000007    Checksum: 1925963124
+      Slice 27 MinCounts 00000001 TotalCounts 00122157 MaxCounts 00000007    Checksum: 2332613949
+      Slice 28 MinCounts 00000001 TotalCounts 00122861 MaxCounts 00000005    Checksum: 1884086269
+      Slice 29 MinCounts 00000001 TotalCounts 00122139 MaxCounts 00000006    Checksum: 1417010475
+      Slice 30 MinCounts 00000001 TotalCounts 00122611 MaxCounts 00000005    Checksum: 1710022403
+      Slice 31 MinCounts 00000001 TotalCounts 00122934 MaxCounts 00000005    Checksum: 1567154246
+      Slice 32 MinCounts 00000001 TotalCounts 00123676 MaxCounts 00000007    Checksum: 3000296236
+      Slice 33 MinCounts 00000001 TotalCounts 00122216 MaxCounts 00000006    Checksum: 2320293240
+      Slice 34 MinCounts 00000001 TotalCounts 00123070 MaxCounts 00000007    Checksum: 0363651278
+      Slice 35 MinCounts 00000001 TotalCounts 00123346 MaxCounts 00000007    Checksum: 3898335714
+      Slice 36 MinCounts 00000001 TotalCounts 00123529 MaxCounts 00000007    Checksum: 1656873625
+      Slice 37 MinCounts 00000001 TotalCounts 00123739 MaxCounts 00000007    Checksum: 1567351659
+      Slice 38 MinCounts 00000001 TotalCounts 00124407 MaxCounts 00000006    Checksum: 1750328839
+      Slice 39 MinCounts 00000001 TotalCounts 00123647 MaxCounts 00000007    Checksum: 1269687055
+      Slice 40 MinCounts 00000001 TotalCounts 00124375 MaxCounts 00000008    Checksum: 1489429991
+      Slice 41 MinCounts 00000001 TotalCounts 00124092 MaxCounts 00000006    Checksum: 4086949068
+      Slice 42 MinCounts 00000001 TotalCounts 00124066 MaxCounts 00000006    Checksum: 3193889970
+      Slice 43 MinCounts 00000001 TotalCounts 00124749 MaxCounts 00000006    Checksum: 1483073373
+      Slice 44 MinCounts 00000001 TotalCounts 00125439 MaxCounts 00000006    Checksum: 2452875791
+      Slice 45 MinCounts 00000001 TotalCounts 00126058 MaxCounts 00000007    Checksum: 2929585274
+      Slice 46 MinCounts 00000001 TotalCounts 00126680 MaxCounts 00000007    Checksum: 1337978600
+      Slice 47 MinCounts 00000001 TotalCounts 00126592 MaxCounts 00000008    Checksum: 1750265488
+      Slice 48 MinCounts 00000001 TotalCounts 00127054 MaxCounts 00000009    Checksum: 3217289310
+      Slice 49 MinCounts 00000001 TotalCounts 00127741 MaxCounts 00000008    Checksum: 1617490701
+      Slice 50 MinCounts 00000001 TotalCounts 00127436 MaxCounts 00000007    Checksum: 0927986140
+      Slice 51 MinCounts 00000001 TotalCounts 00127209 MaxCounts 00000006    Checksum: 3917148409
+      Slice 52 MinCounts 00000001 TotalCounts 00126942 MaxCounts 00000006    Checksum: 2912743406
+      Slice 53 MinCounts 00000001 TotalCounts 00127778 MaxCounts 00000006    Checksum: 0906818354
+      Slice 54 MinCounts 00000001 TotalCounts 00127701 MaxCounts 00000006    Checksum: 2872701669
+      Slice 55 MinCounts 00000001 TotalCounts 00129147 MaxCounts 00000008    Checksum: 4258723979
+      Slice 56 MinCounts 00000001 TotalCounts 00129814 MaxCounts 00000007    Checksum: 0295369510
+      Slice 57 MinCounts 00000001 TotalCounts 00128512 MaxCounts 00000007    Checksum: 0630126096
+      Slice 58 MinCounts 00000001 TotalCounts 00129159 MaxCounts 00000009    Checksum: 0783874199
+      Slice 59 MinCounts 00000001 TotalCounts 00129270 MaxCounts 00000007    Checksum: 2575890694
+      Slice 60 MinCounts 00000001 TotalCounts 00129834 MaxCounts 00000008    Checksum: 3333618490
+      Slice 61 MinCounts 00000001 TotalCounts 00129862 MaxCounts 00000008    Checksum: 2583821142
+      Slice 62 MinCounts 00000001 TotalCounts 00129731 MaxCounts 00000007    Checksum: 3967875795
+      Slice 63 MinCounts 00000001 TotalCounts 00130479 MaxCounts 00000008    Checksum: 0530185663
+      Slice 64 MinCounts 00000001 TotalCounts 00132206 MaxCounts 00000009    Checksum: 4126999693
+      Slice 65 MinCounts 00000001 TotalCounts 00131435 MaxCounts 00000009    Checksum: 4140433802
+      Slice 66 MinCounts 00000001 TotalCounts 00131730 MaxCounts 00000008    Checksum: 2845508273
+      Slice 67 MinCounts 00000001 TotalCounts 00132393 MaxCounts 00000009    Checksum: 0017696072
+      Slice 68 MinCounts 00000001 TotalCounts 00132243 MaxCounts 00000007    Checksum: 0146801842
+      Slice 69 MinCounts 00000001 TotalCounts 00131169 MaxCounts 00000008    Checksum: 2390687872
+      Slice 70 MinCounts 00000001 TotalCounts 00132334 MaxCounts 00000008    Checksum: 0116327693
+      Slice 71 MinCounts 00000001 TotalCounts 00132265 MaxCounts 00000008    Checksum: 3648783560
+      Slice 72 MinCounts 00000001 TotalCounts 00132663 MaxCounts 00000008    Checksum: 1548682838
+      Slice 73 MinCounts 00000001 TotalCounts 00133000 MaxCounts 00000007    Checksum: 1178929063
+      Slice 74 MinCounts 00000001 TotalCounts 00133310 MaxCounts 00000007    Checksum: 1275332829
+      Slice 75 MinCounts 00000001 TotalCounts 00133401 MaxCounts 00000008    Checksum: 4208527672
+      Slice 76 MinCounts 00000001 TotalCounts 00133418 MaxCounts 00000008    Checksum: 2206992713
+      Slice 77 MinCounts 00000001 TotalCounts 00133152 MaxCounts 00000009    Checksum: 4236445759
+      Slice 78 MinCounts 00000001 TotalCounts 00133413 MaxCounts 00000007    Checksum: 0874776900
+      Slice 79 MinCounts 00000001 TotalCounts 00133444 MaxCounts 00000007    Checksum: 1973619043
+      Slice 80 MinCounts 00000001 TotalCounts 00133485 MaxCounts 00000008    Checksum: 2221279628
+      Slice 81 MinCounts 00000001 TotalCounts 00133333 MaxCounts 00000011    Checksum: 0941099252
+      Slice 82 MinCounts 00000001 TotalCounts 00134313 MaxCounts 00000007    Checksum: 0383257800
+      Slice 83 MinCounts 00000001 TotalCounts 00134771 MaxCounts 00000008    Checksum: 1351749266
+      Slice 84 MinCounts 00000001 TotalCounts 00135190 MaxCounts 00000009    Checksum: 0075108405
+      Slice 85 MinCounts 00000001 TotalCounts 00135097 MaxCounts 00000007    Checksum: 2900496344
+      Slice 86 MinCounts 00000001 TotalCounts 00135791 MaxCounts 00000008    Checksum: 0590353038
+      Slice 87 MinCounts 00000001 TotalCounts 00136172 MaxCounts 00000009    Checksum: 0739513355
+      Slice 88 MinCounts 00000001 TotalCounts 00134666 MaxCounts 00000009    Checksum: 2601586217
+      Slice 89 MinCounts 00000001 TotalCounts 00135914 MaxCounts 00000008    Checksum: 2639074057
+      Slice 90 MinCounts 00000001 TotalCounts 00136572 MaxCounts 00000009    Checksum: 2922583451
+      Slice 91 MinCounts 00000001 TotalCounts 00136561 MaxCounts 00000008    Checksum: 1133909392
+      Slice 92 MinCounts 00000001 TotalCounts 00136534 MaxCounts 00000009    Checksum: 1503729013
+      Slice 93 MinCounts 00000001 TotalCounts 00136325 MaxCounts 00000008    Checksum: 3784512676
+      Slice 94 MinCounts 00000001 TotalCounts 00136236 MaxCounts 00000008    Checksum: 2656572491
+      Slice 95 MinCounts 00000001 TotalCounts 00136614 MaxCounts 00000007    Checksum: 2102400453
+      Slice 96 MinCounts 00000001 TotalCounts 00137252 MaxCounts 00000007    Checksum: 3040286787
+      Slice 97 MinCounts 00000001 TotalCounts 00137270 MaxCounts 00000007    Checksum: 0486611029
+      Slice 98 MinCounts 00000001 TotalCounts 00137442 MaxCounts 00000008    Checksum: 1574246657
+      Slice 99 MinCounts 00000001 TotalCounts 00137447 MaxCounts 00000007    Checksum: 0968300806
+      Slice 100 MinCounts 00000001 TotalCounts 00138286 MaxCounts 00000008    Checksum: 3591642189
+      Slice 101 MinCounts 00000001 TotalCounts 00138801 MaxCounts 00000009    Checksum: 4158070352
+      Slice 102 MinCounts 00000001 TotalCounts 00139111 MaxCounts 00000008    Checksum: 2377457542
+      Slice 103 MinCounts 00000001 TotalCounts 00139134 MaxCounts 00000010    Checksum: 2206932893
+      Slice 104 MinCounts 00000001 TotalCounts 00139775 MaxCounts 00000009    Checksum: 3008700958
+      Slice 105 MinCounts 00000001 TotalCounts 00139767 MaxCounts 00000008    Checksum: 1025843734
+      Slice 106 MinCounts 00000001 TotalCounts 00139754 MaxCounts 00000009    Checksum: 0432939529
+      Slice 107 MinCounts 00000001 TotalCounts 00139375 MaxCounts 00000009    Checksum: 2020941966
+      Slice 108 MinCounts 00000001 TotalCounts 00138888 MaxCounts 00000008    Checksum: 1558322855
+      Slice 109 MinCounts 00000001 TotalCounts 00139544 MaxCounts 00000007    Checksum: 0269361463
+      Slice 110 MinCounts 00000001 TotalCounts 00139274 MaxCounts 00000008    Checksum: 4022935593
+      Slice 111 MinCounts 00000001 TotalCounts 00139467 MaxCounts 00000008    Checksum: 0818159850
+      Slice 112 MinCounts 00000001 TotalCounts 00140132 MaxCounts 00000009    Checksum: 0454304643
+      Slice 113 MinCounts 00000001 TotalCounts 00139214 MaxCounts 00000007    Checksum: 3334086637
+      Slice 114 MinCounts 00000001 TotalCounts 00139539 MaxCounts 00000009    Checksum: 4110819634
+      Slice 115 MinCounts 00000001 TotalCounts 00139561 MaxCounts 00000008    Checksum: 4198375752
+      Slice 116 MinCounts 00000001 TotalCounts 00139817 MaxCounts 00000008    Checksum: 2145854024
+      Slice 117 MinCounts 00000001 TotalCounts 00140057 MaxCounts 00000007    Checksum: 0644817720
+      Slice 118 MinCounts 00000001 TotalCounts 00140627 MaxCounts 00000007    Checksum: 1707353458
+      Slice 119 MinCounts 00000001 TotalCounts 00141538 MaxCounts 00000009    Checksum: 2957846785
+      Slice 120 MinCounts 00000001 TotalCounts 00141831 MaxCounts 00000009    Checksum: 3841010214
+      Slice 121 MinCounts 00000001 TotalCounts 00140988 MaxCounts 00000010    Checksum: 0542123739
+      Slice 122 MinCounts 00000001 TotalCounts 00140652 MaxCounts 00000010    Checksum: 1477649803
+      Slice 123 MinCounts 00000001 TotalCounts 00140919 MaxCounts 00000008    Checksum: 1021781654
+      Slice 124 MinCounts 00000001 TotalCounts 00139599 MaxCounts 00000008    Checksum: 3057983854
+      Slice 125 MinCounts 00000001 TotalCounts 00139890 MaxCounts 00000008    Checksum: 2778407569
+      Slice 126 MinCounts 00000001 TotalCounts 00139911 MaxCounts 00000009    Checksum: 2871337638
+      Slice 127 MinCounts 00000001 TotalCounts 00139961 MaxCounts 00000009    Checksum: 0023732952
+      Slice 128 MinCounts 00000001 TotalCounts 00140042 MaxCounts 00000012    Checksum: 0168108841
+      Slice 129 MinCounts 00000001 TotalCounts 00140380 MaxCounts 00000009    Checksum: 1402938491
+      Slice 130 MinCounts 00000001 TotalCounts 00140023 MaxCounts 00000008    Checksum: 1306665750
+      Slice 131 MinCounts 00000001 TotalCounts 00140437 MaxCounts 00000009    Checksum: 2120098996
+      Slice 132 MinCounts 00000001 TotalCounts 00140381 MaxCounts 00000007    Checksum: 3428066428
+      Slice 133 MinCounts 00000001 TotalCounts 00140241 MaxCounts 00000009    Checksum: 3071484912
+      Slice 134 MinCounts 00000001 TotalCounts 00140859 MaxCounts 00000010    Checksum: 0352527962
+      Slice 135 MinCounts 00000001 TotalCounts 00141331 MaxCounts 00000010    Checksum: 1896425522
+      Slice 136 MinCounts 00000001 TotalCounts 00140945 MaxCounts 00000008    Checksum: 2167219888
+      Slice 137 MinCounts 00000001 TotalCounts 00140655 MaxCounts 00000009    Checksum: 3448907150
+      Slice 138 MinCounts 00000001 TotalCounts 00140639 MaxCounts 00000011    Checksum: 0793978238
+      Slice 139 MinCounts 00000001 TotalCounts 00140728 MaxCounts 00000011    Checksum: 0357574103
+      Slice 140 MinCounts 00000001 TotalCounts 00139805 MaxCounts 00000010    Checksum: 4182647356
+      Slice 141 MinCounts 00000001 TotalCounts 00139699 MaxCounts 00000008    Checksum: 2190025170
+      Slice 142 MinCounts 00000001 TotalCounts 00139647 MaxCounts 00000008    Checksum: 2778800542
+      Slice 143 MinCounts 00000001 TotalCounts 00138925 MaxCounts 00000009    Checksum: 3965787852
+      Slice 144 MinCounts 00000001 TotalCounts 00139496 MaxCounts 00000007    Checksum: 2001084679
+      Slice 145 MinCounts 00000001 TotalCounts 00139059 MaxCounts 00000008    Checksum: 4132118354
+      Slice 146 MinCounts 00000001 TotalCounts 00138757 MaxCounts 00000008    Checksum: 3651411492
+      Slice 147 MinCounts 00000001 TotalCounts 00139518 MaxCounts 00000008    Checksum: 2879725853
+      Slice 148 MinCounts 00000001 TotalCounts 00138628 MaxCounts 00000009    Checksum: 3665239459
+      Slice 149 MinCounts 00000001 TotalCounts 00139132 MaxCounts 00000008    Checksum: 3683590043
+      Slice 150 MinCounts 00000001 TotalCounts 00139702 MaxCounts 00000008    Checksum: 2371822037
+      Slice 151 MinCounts 00000001 TotalCounts 00139485 MaxCounts 00000009    Checksum: 2222334204
+      Slice 152 MinCounts 00000001 TotalCounts 00139177 MaxCounts 00000010    Checksum: 1563697096
+      Slice 153 MinCounts 00000001 TotalCounts 00138947 MaxCounts 00000008    Checksum: 2102730466
+      Slice 154 MinCounts 00000001 TotalCounts 00139044 MaxCounts 00000008    Checksum: 4169801539
+      Slice 155 MinCounts 00000001 TotalCounts 00138436 MaxCounts 00000008    Checksum: 1666718947
+      Slice 156 MinCounts 00000001 TotalCounts 00138188 MaxCounts 00000009    Checksum: 2631408619
+      Slice 157 MinCounts 00000001 TotalCounts 00137410 MaxCounts 00000010    Checksum: 2855606497
+      Slice 158 MinCounts 00000001 TotalCounts 00137085 MaxCounts 00000008    Checksum: 2825066396
+      Slice 159 MinCounts 00000001 TotalCounts 00136507 MaxCounts 00000008    Checksum: 2129859930
+      Slice 160 MinCounts 00000001 TotalCounts 00136240 MaxCounts 00000009    Checksum: 1924011087
+      Slice 161 MinCounts 00000001 TotalCounts 00135771 MaxCounts 00000009    Checksum: 4192080506
+      Slice 162 MinCounts 00000001 TotalCounts 00136233 MaxCounts 00000007    Checksum: 1125585992
+      Slice 163 MinCounts 00000001 TotalCounts 00135270 MaxCounts 00000008    Checksum: 2923106437
+      Slice 164 MinCounts 00000001 TotalCounts 00135505 MaxCounts 00000007    Checksum: 1691095408
+      Slice 165 MinCounts 00000001 TotalCounts 00135865 MaxCounts 00000009    Checksum: 3597406936
+      Slice 166 MinCounts 00000001 TotalCounts 00136415 MaxCounts 00000007    Checksum: 1442321662
+      Slice 167 MinCounts 00000001 TotalCounts 00136070 MaxCounts 00000008    Checksum: 3087012773
+      Slice 168 MinCounts 00000001 TotalCounts 00135243 MaxCounts 00000007    Checksum: 2117210218
+      Slice 169 MinCounts 00000001 TotalCounts 00135050 MaxCounts 00000009    Checksum: 0221974441
+      Slice 170 MinCounts 00000001 TotalCounts 00134598 MaxCounts 00000008    Checksum: 2204044773
+      Slice 171 MinCounts 00000001 TotalCounts 00134950 MaxCounts 00000008    Checksum: 3281129285
+      Slice 172 MinCounts 00000001 TotalCounts 00134053 MaxCounts 00000008    Checksum: 2606435268
+      Slice 173 MinCounts 00000001 TotalCounts 00133205 MaxCounts 00000007    Checksum: 0656672884
+      Slice 174 MinCounts 00000001 TotalCounts 00133295 MaxCounts 00000008    Checksum: 3838838990
+      Slice 175 MinCounts 00000001 TotalCounts 00132862 MaxCounts 00000008    Checksum: 2248148765
+      Slice 176 MinCounts 00000001 TotalCounts 00132404 MaxCounts 00000008    Checksum: 3427403091
+      Slice 177 MinCounts 00000001 TotalCounts 00132671 MaxCounts 00000008    Checksum: 3409053278
+      Slice 178 MinCounts 00000001 TotalCounts 00132331 MaxCounts 00000008    Checksum: 3664839946
+      Slice 179 MinCounts 00000001 TotalCounts 00131950 MaxCounts 00000010    Checksum: 0887423885
+      Slice 180 MinCounts 00000001 TotalCounts 00132099 MaxCounts 00000008    Checksum: 3603039266
+      Slice 181 MinCounts 00000001 TotalCounts 00132612 MaxCounts 00000007    Checksum: 3890939427
+      Slice 182 MinCounts 00000001 TotalCounts 00132317 MaxCounts 00000008    Checksum: 1260586236
+      Slice 183 MinCounts 00000001 TotalCounts 00132295 MaxCounts 00000008    Checksum: 2741634278
+      Slice 184 MinCounts 00000001 TotalCounts 00131913 MaxCounts 00000008    Checksum: 3530556264
+      Slice 185 MinCounts 00000001 TotalCounts 00132741 MaxCounts 00000007    Checksum: 2461075108
+      Slice 186 MinCounts 00000001 TotalCounts 00131631 MaxCounts 00000008    Checksum: 2149188174
+      Slice 187 MinCounts 00000001 TotalCounts 00130853 MaxCounts 00000009    Checksum: 1922498357
+      Slice 188 MinCounts 00000001 TotalCounts 00130971 MaxCounts 00000008    Checksum: 4085514155
+      Slice 189 MinCounts 00000001 TotalCounts 00130370 MaxCounts 00000008    Checksum: 2031025490
+      Slice 190 MinCounts 00000001 TotalCounts 00129727 MaxCounts 00000008    Checksum: 2181692111
+      Slice 191 MinCounts 00000001 TotalCounts 00129537 MaxCounts 00000009    Checksum: 2153642513
+      Slice 192 MinCounts 00000001 TotalCounts 00129381 MaxCounts 00000008    Checksum: 3847485813
+      Slice 193 MinCounts 00000001 TotalCounts 00129133 MaxCounts 00000008    Checksum: 3334535293
+      Slice 194 MinCounts 00000001 TotalCounts 00128788 MaxCounts 00000009    Checksum: 2969368356
+      Slice 195 MinCounts 00000001 TotalCounts 00128292 MaxCounts 00000007    Checksum: 1226962228
+      Slice 196 MinCounts 00000001 TotalCounts 00128082 MaxCounts 00000008    Checksum: 2811098210
+      Slice 197 MinCounts 00000001 TotalCounts 00128600 MaxCounts 00000013    Checksum: 1051653736
+      Slice 198 MinCounts 00000001 TotalCounts 00128484 MaxCounts 00000008    Checksum: 3029595636
+      Slice 199 MinCounts 00000001 TotalCounts 00128753 MaxCounts 00000007    Checksum: 3589142273
+      Slice 200 MinCounts 00000001 TotalCounts 00128845 MaxCounts 00000007    Checksum: 1630271325
+      Slice 201 MinCounts 00000001 TotalCounts 00129253 MaxCounts 00000009    Checksum: 3454597365
+      Slice 202 MinCounts 00000001 TotalCounts 00127895 MaxCounts 00000008    Checksum: 1987113895
+      Slice 203 MinCounts 00000001 TotalCounts 00127340 MaxCounts 00000006    Checksum: 1904669052
+      Slice 204 MinCounts 00000001 TotalCounts 00127657 MaxCounts 00000008    Checksum: 1873277625
+      Slice 205 MinCounts 00000001 TotalCounts 00127670 MaxCounts 00000007    Checksum: 1552347846
+      Slice 206 MinCounts 00000001 TotalCounts 00126952 MaxCounts 00000007    Checksum: 0239726584
+      Slice 207 MinCounts 00000001 TotalCounts 00128258 MaxCounts 00000008    Checksum: 0057865490
+      Slice 208 MinCounts 00000001 TotalCounts 00126635 MaxCounts 00000006    Checksum: 0626847419
+      Slice 209 MinCounts 00000001 TotalCounts 00126707 MaxCounts 00000007    Checksum: 2204036867
+      Slice 210 MinCounts 00000001 TotalCounts 00127297 MaxCounts 00000008    Checksum: 2845569361
+      Slice 211 MinCounts 00000001 TotalCounts 00126633 MaxCounts 00000007    Checksum: 1103490745
+      Slice 212 MinCounts 00000001 TotalCounts 00126445 MaxCounts 00000010    Checksum: 0757657085
+      Slice 213 MinCounts 00000001 TotalCounts 00126872 MaxCounts 00000008    Checksum: 3610963880
+      Slice 214 MinCounts 00000001 TotalCounts 00126263 MaxCounts 00000007    Checksum: 3198676295
+      Slice 215 MinCounts 00000001 TotalCounts 00125753 MaxCounts 00000008    Checksum: 0089385801
+      Slice 216 MinCounts 00000001 TotalCounts 00125458 MaxCounts 00000007    Checksum: 2240211490
+      Slice 217 MinCounts 00000001 TotalCounts 00126101 MaxCounts 00000007    Checksum: 0405662885
+      Slice 218 MinCounts 00000001 TotalCounts 00125164 MaxCounts 00000007    Checksum: 0639625468
+      Slice 219 MinCounts 00000001 TotalCounts 00125119 MaxCounts 00000010    Checksum: 2403264719
+      Slice 220 MinCounts 00000001 TotalCounts 00125528 MaxCounts 00000007    Checksum: 2072177256
+      Slice 221 MinCounts 00000001 TotalCounts 00125542 MaxCounts 00000007    Checksum: 2190142070
+      Slice 222 MinCounts 00000001 TotalCounts 00124465 MaxCounts 00000007    Checksum: 1807541825
+      Slice 223 MinCounts 00000001 TotalCounts 00124171 MaxCounts 00000007    Checksum: 3025134875
+      Slice 224 MinCounts 00000001 TotalCounts 00124452 MaxCounts 00000007    Checksum: 0490530356
+      Slice 225 MinCounts 00000001 TotalCounts 00124227 MaxCounts 00000008    Checksum: 0998565203
+      Slice 226 MinCounts 00000001 TotalCounts 00123759 MaxCounts 00000008    Checksum: 2626872191
+      Slice 227 MinCounts 00000001 TotalCounts 00124181 MaxCounts 00000007    Checksum: 0582214949
+      Slice 228 MinCounts 00000001 TotalCounts 00123962 MaxCounts 00000007    Checksum: 3584746570
+      Slice 229 MinCounts 00000001 TotalCounts 00123841 MaxCounts 00000007    Checksum: 0236053457
+      Slice 230 MinCounts 00000001 TotalCounts 00123621 MaxCounts 00000007    Checksum: 4228375285
+      Slice 231 MinCounts 00000001 TotalCounts 00122694 MaxCounts 00000007    Checksum: 3276529494
+      Slice 232 MinCounts 00000001 TotalCounts 00122750 MaxCounts 00000007    Checksum: 3055083406
+      Slice 233 MinCounts 00000001 TotalCounts 00122767 MaxCounts 00000007    Checksum: 4107526047
+      Slice 234 MinCounts 00000001 TotalCounts 00122297 MaxCounts 00000006    Checksum: 1329520073
+      Slice 235 MinCounts 00000001 TotalCounts 00122487 MaxCounts 00000007    Checksum: 3549159047
+      Slice 236 MinCounts 00000001 TotalCounts 00122811 MaxCounts 00000006    Checksum: 0686677963
+      Slice 237 MinCounts 00000001 TotalCounts 00122313 MaxCounts 00000007    Checksum: 2979913177
+      Slice 238 MinCounts 00000001 TotalCounts 00121659 MaxCounts 00000005    Checksum: 3291077451
+      Slice 239 MinCounts 00000001 TotalCounts 00121868 MaxCounts 00000007    Checksum: 3620985884
+      Slice 240 MinCounts 00000001 TotalCounts 00121757 MaxCounts 00000007    Checksum: 0004578221
+      Slice 241 MinCounts 00000001 TotalCounts 00121391 MaxCounts 00000007    Checksum: 3228555839
+      Slice 242 MinCounts 00000001 TotalCounts 00121173 MaxCounts 00000007    Checksum: 0082368869
+      Slice 243 MinCounts 00000001 TotalCounts 00120924 MaxCounts 00000007    Checksum: 4086814828
+      Slice 244 MinCounts 00000001 TotalCounts 00120929 MaxCounts 00000007    Checksum: 1599002737
+      Slice 245 MinCounts 00000001 TotalCounts 00121499 MaxCounts 00000006    Checksum: 0866048683
+      Slice 246 MinCounts 00000001 TotalCounts 00121021 MaxCounts 00000005    Checksum: 2598033613
+      Slice 247 MinCounts 00000001 TotalCounts 00120912 MaxCounts 00000006    Checksum: 4232697952
+      Slice 248 MinCounts 00000001 TotalCounts 00120631 MaxCounts 00000006    Checksum: 1109186375
+      Slice 249 MinCounts 00000001 TotalCounts 00120140 MaxCounts 00000007    Checksum: 0288806236
+      Slice 250 MinCounts 00000001 TotalCounts 00120730 MaxCounts 00000006    Checksum: 3998275498
+      Slice 251 MinCounts 00000001 TotalCounts 00120075 MaxCounts 00000006    Checksum: 1287968027
+      Slice 252 MinCounts 00000001 TotalCounts 00120086 MaxCounts 00000005    Checksum: 1669453094
+      Slice 253 MinCounts 00000001 TotalCounts 00119333 MaxCounts 00000007    Checksum: 2067583541
+      Slice 254 MinCounts 00000001 TotalCounts 00119603 MaxCounts 00000007    Checksum: 3488142147
+      Slice 255 MinCounts 00000001 TotalCounts 00120207 MaxCounts 00000006    Checksum: 4148483487
+      Slice 256 MinCounts 00000001 TotalCounts 00120258 MaxCounts 00000006    Checksum: 3611284946
+      Slice 257 MinCounts 00000001 TotalCounts 00119959 MaxCounts 00000005    Checksum: 2331432103
+      Slice 258 MinCounts 00000001 TotalCounts 00119578 MaxCounts 00000007    Checksum: 3652834090
+      Slice 259 MinCounts 00000001 TotalCounts 00120204 MaxCounts 00000005    Checksum: 1027331484
+      Slice 260 MinCounts 00000001 TotalCounts 00119770 MaxCounts 00000006    Checksum: 3248673770
+      Slice 261 MinCounts 00000001 TotalCounts 00119322 MaxCounts 00000006    Checksum: 1681904170
+      Slice 262 MinCounts 00000001 TotalCounts 00120101 MaxCounts 00000006    Checksum: 3021395253
+      Slice 263 MinCounts 00000001 TotalCounts 00120138 MaxCounts 00000006    Checksum: 1126356314
+      Slice 264 MinCounts 00000001 TotalCounts 00120577 MaxCounts 00000006    Checksum: 2052314897
+      Slice 265 MinCounts 00000001 TotalCounts 00119783 MaxCounts 00000005    Checksum: 1517736951
+      Slice 266 MinCounts 00000001 TotalCounts 00120296 MaxCounts 00000006    Checksum: 3294615032
+      Slice 267 MinCounts 00000001 TotalCounts 00120210 MaxCounts 00000005    Checksum: 1479464354
+      Slice 268 MinCounts 00000001 TotalCounts 00119565 MaxCounts 00000006    Checksum: 1543623453
+      Slice 269 MinCounts 00000001 TotalCounts 00120421 MaxCounts 00000005    Checksum: 0685889141
+      Slice 270 MinCounts 00000001 TotalCounts 00120378 MaxCounts 00000005    Checksum: 0854840906
+      Slice 271 MinCounts 00000001 TotalCounts 00119475 MaxCounts 00000005    Checksum: 0643617475
+      Slice 272 MinCounts 00000001 TotalCounts 00119884 MaxCounts 00000006    Checksum: 2208093276
+ 
+   Segment ID(SegGroup 1,Layout 3) DS 0 Total Counts: 35303474 
+Deadtime Data:
+   Block Busy Dead Time Data Checksum: 406129801
+   Block Busy Min:  0.01848  Module (0-33): 23  Block (0-15):  1
+   Block Busy Max: 0.029661  Module (0-33):  5  Block (0-15): 12
+   Block Busy Average Deadtime: 0.024168
+
+   BBD Module #     Block 0  Block 1  Block 2  Block 3  Block 4  Block 5  Block 6  Block 7  Block 8  Block 9  Block 10  Block 11  Block 12  Block 13  Block 14  Block 15
+   -------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- --------
+   BBD Module[ 0]:  0.02153  0.02124  0.02130  0.02174  0.02493  0.02442  0.02457  0.02530  0.02801  0.02760  0.02763  0.02820  0.02870  0.02836  0.02831  0.02874
+   BBD Module[ 1]:  0.02135  0.02108  0.02121  0.02163  0.02491  0.02460  0.02464  0.02516  0.02805  0.02775  0.02785  0.02834  0.02883  0.02836  0.02848  0.02910
+   BBD Module[ 2]:  0.02155  0.02119  0.02119  0.02172  0.02525  0.02470  0.02461  0.02524  0.02824  0.02777  0.02766  0.02851  0.02887  0.02859  0.02833  0.02895
+   BBD Module[ 3]:  0.02159  0.02116  0.02094  0.02165  0.02512  0.02449  0.02451  0.02514  0.02830  0.02782  0.02763  0.02844  0.02932  0.02850  0.02862  0.02919
+   BBD Module[ 4]:  0.02163  0.02106  0.02099  0.02134  0.02507  0.02442  0.02448  0.02475  0.02837  0.02792  0.02776  0.02815  0.02912  0.02861  0.02843  0.02885
+   BBD Module[ 5]:  0.02165  0.02103  0.02067  0.02123  0.02525  0.02442  0.02418  0.02485  0.02856  0.02776  0.02765  0.02816  0.02966  0.02892  0.02875  0.02909
+   BBD Module[ 6]:  0.02115  0.02062  0.02061  0.02107  0.02480  0.02411  0.02403  0.02452  0.02816  0.02735  0.02752  0.02837  0.02898  0.02842  0.02845  0.02889
+   BBD Module[ 7]:  0.02159  0.02067  0.02060  0.02112  0.02496  0.02398  0.02401  0.02444  0.02847  0.02731  0.02741  0.02778  0.02904  0.02852  0.02832  0.02851
+   BBD Module[ 8]:  0.02153  0.02058  0.02044  0.02081  0.02488  0.02404  0.02400  0.02452  0.02819  0.02718  0.02719  0.02763  0.02901  0.02823  0.02819  0.02821
+   BBD Module[ 9]:  0.02090  0.02006  0.02003  0.02036  0.02445  0.02352  0.02335  0.02396  0.02784  0.02688  0.02667  0.02698  0.02870  0.02799  0.02768  0.02786
+   BBD Module[10]:  0.02051  0.01959  0.01938  0.01935  0.02414  0.02307  0.02318  0.02360  0.02738  0.02657  0.02645  0.02696  0.02836  0.02764  0.02764  0.02793
+   BBD Module[11]:  0.02005  0.01926  0.01915  0.01979  0.02355  0.02285  0.02265  0.02324  0.02704  0.02604  0.02617  0.02662  0.02799  0.02751  0.02736  0.02748
+   BBD Module[12]:  0.01968  0.01911  0.01925  0.01976  0.02355  0.02274  0.02288  0.02321  0.02666  0.02581  0.02557  0.02627  0.02776  0.02710  0.02686  0.02718
+   BBD Module[13]:  0.02017  0.01911  0.01931  0.01953  0.02345  0.02259  0.02249  0.02282  0.02675  0.02552  0.02546  0.02596  0.02765  0.02677  0.02671  0.02697
+   BBD Module[14]:  0.01942  0.01905  0.01889  0.01925  0.02298  0.02218  0.02203  0.02215  0.02602  0.02519  0.02511  0.02572  0.02706  0.02638  0.02589  0.02625
+   BBD Module[15]:  0.01964  0.01911  0.01890  0.01910  0.02296  0.02219  0.02210  0.02244  0.02599  0.02485  0.02495  0.02527  0.02714  0.02636  0.02631  0.02660
+   BBD Module[16]:  0.01943  0.01884  0.01874  0.01911  0.02274  0.02190  0.02162  0.02193  0.02548  0.02477  0.02442  0.02512  0.02618  0.02555  0.02551  0.02582
+   BBD Module[17]:  0.01950  0.01881  0.01888  0.01900  0.02233  0.02173  0.02154  0.02197  0.02534  0.02461  0.02450  0.02490  0.02581  0.02495  0.02504  0.02514
+   BBD Module[18]:  0.01929  0.01874  0.01855  0.01902  0.02257  0.02168  0.02138  0.02198  0.02515  0.02456  0.02441  0.02455  0.02570  0.02515  0.02506  0.02533
+   BBD Module[19]:  0.01926  0.01859  0.01875  0.01914  0.02232  0.02148  0.02138  0.02187  0.02492  0.02421  0.02425  0.02473  0.02630  0.02532  0.02526  0.02573
+   BBD Module[20]:  0.01914  0.01860  0.01857  0.01911  0.02207  0.02166  0.02167  0.02215  0.02517  0.02441  0.02432  0.02485  0.02564  0.02529  0.02539  0.02566
+   BBD Module[21]:  0.01938  0.01892  0.01880  0.01928  0.02217  0.02163  0.02181  0.02209  0.02502  0.02467  0.02452  0.02498  0.02575  0.02538  0.02532  0.02548
+   BBD Module[22]:  0.01907  0.01873  0.01867  0.01905  0.02208  0.02183  0.02176  0.02239  0.02516  0.02428  0.02449  0.02497  0.02571  0.02535  0.02554  0.02583
+   BBD Module[23]:  0.01866  0.01848  0.01861  0.01918  0.02177  0.02149  0.02177  0.02212  0.02511  0.02468  0.02444  0.02507  0.02625  0.02547  0.02535  0.02597
+   BBD Module[24]:  0.01918  0.01888  0.01903  0.01966  0.02235  0.02200  0.02180  0.02275  0.02508  0.02472  0.02488  0.02562  0.02585  0.02560  0.02555  0.02595
+   BBD Module[25]:  0.01969  0.01921  0.01951  0.01992  0.02244  0.02181  0.02193  0.02256  0.02514  0.02498  0.02459  0.02574  0.02575  0.02543  0.02569  0.02633
+   BBD Module[26]:  0.01985  0.01926  0.01933  0.01992  0.02264  0.02231  0.02238  0.02299  0.02530  0.02487  0.02507  0.02582  0.02604  0.02577  0.02600  0.02650
+   BBD Module[27]:  0.02006  0.01956  0.01979  0.02011  0.02293  0.02253  0.02253  0.02340  0.02577  0.02523  0.02550  0.02611  0.02622  0.02612  0.02616  0.02676
+   BBD Module[28]:  0.02003  0.01969  0.01973  0.02035  0.02308  0.02272  0.02286  0.02375  0.02586  0.02536  0.02550  0.02623  0.02644  0.02608  0.02641  0.02712
+   BBD Module[29]:  0.02033  0.01981  0.02005  0.02079  0.02324  0.02281  0.02306  0.02410  0.02629  0.02596  0.02593  0.02677  0.02701  0.02664  0.02675  0.02750
+   BBD Module[30]:  0.02063  0.02032  0.02049  0.02122  0.02371  0.02321  0.02343  0.02434  0.02644  0.02613  0.02611  0.02702  0.02727  0.02691  0.02688  0.02784
+   BBD Module[31]:  0.02096  0.02052  0.02052  0.02110  0.02400  0.02360  0.02379  0.02439  0.02703  0.02631  0.02657  0.02728  0.02770  0.02705  0.02742  0.02806
+   BBD Module[32]:  0.02112  0.02071  0.02074  0.02125  0.02445  0.02379  0.02394  0.02476  0.02730  0.02688  0.02709  0.02783  0.02810  0.02785  0.02779  0.02848
+   BBD Module[33]:  0.02138  0.02107  0.02122  0.02161  0.02447  0.02410  0.02399  0.02491  0.02750  0.02690  0.02710  0.02810  0.02798  0.02784  0.02782  0.02835
+
+   Block Mux Dead Time Data Checksum: 3113109530
+   Block Mux  Min:        0  Module (0-33): 33  Block (0-15): 15
+   Block Mux  Max: 8.1554e-05  Module (0-33):  9  Block (0-15):  6
+   Block Mux  Average Deadtime: 1.1883e-05
+
+   BMD Module #     Block 0  Block 1  Block 2  Block 3  Block 4  Block 5  Block 6  Block 7  Block 8  Block 9  Block 10  Block 11  Block 12  Block 13  Block 14  Block 15
+   -------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- --------
+   BMD Module[ 0]:  0.00002  0.00001  0.00003  0.00003  0.00001  0.00003  0.00003  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 1]:  0.00003  0.00001  0.00003  0.00003  0.00001  0.00003  0.00004  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 2]:  0.00005  0.00001  0.00005  0.00004  0.00000  0.00001  0.00001  0.00001  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 3]:  0.00004  0.00001  0.00004  0.00003  0.00000  0.00002  0.00002  0.00004  0.00006  0.00000  0.00006  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 4]:  0.00005  0.00001  0.00005  0.00002  0.00000  0.00001  0.00001  0.00000  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 5]:  0.00000  0.00000  0.00000  0.00001  0.00000  0.00001  0.00002  0.00004  0.00007  0.00000  0.00007  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 6]:  0.00001  0.00000  0.00001  0.00001  0.00000  0.00002  0.00002  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 7]:  0.00003  0.00001  0.00003  0.00003  0.00001  0.00003  0.00003  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 8]:  0.00007  0.00001  0.00007  0.00005  0.00000  0.00002  0.00001  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[ 9]:  0.00000  0.00000  0.00000  0.00003  0.00001  0.00007  0.00008  0.00005  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[10]:  0.00000  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00001  0.00006  0.00000  0.00005  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[11]:  0.00001  0.00000  0.00002  0.00001  0.00000  0.00000  0.00001  0.00002  0.00005  0.00000  0.00005  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[12]:  0.00003  0.00001  0.00003  0.00002  0.00000  0.00001  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[13]:  0.00005  0.00001  0.00005  0.00004  0.00000  0.00001  0.00001  0.00001  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[14]:  0.00001  0.00000  0.00001  0.00001  0.00001  0.00002  0.00003  0.00003  0.00005  0.00000  0.00005  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[15]:  0.00000  0.00000  0.00000  0.00001  0.00001  0.00006  0.00008  0.00004  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[16]:  0.00001  0.00000  0.00001  0.00000  0.00000  0.00001  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[17]:  0.00006  0.00001  0.00006  0.00002  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[18]:  0.00007  0.00000  0.00006  0.00005  0.00001  0.00003  0.00004  0.00003  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[19]:  0.00002  0.00001  0.00003  0.00003  0.00001  0.00003  0.00004  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[20]:  0.00003  0.00001  0.00003  0.00002  0.00000  0.00001  0.00001  0.00001  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[21]:  0.00007  0.00001  0.00007  0.00003  0.00000  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[22]:  0.00002  0.00000  0.00002  0.00002  0.00001  0.00002  0.00002  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[23]:  0.00000  0.00000  0.00000  0.00004  0.00000  0.00007  0.00008  0.00004  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[24]:  0.00001  0.00000  0.00001  0.00002  0.00001  0.00006  0.00008  0.00004  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[25]:  0.00004  0.00001  0.00004  0.00002  0.00000  0.00001  0.00001  0.00001  0.00004  0.00000  0.00004  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[26]:  0.00004  0.00001  0.00004  0.00003  0.00001  0.00003  0.00003  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[27]:  0.00001  0.00000  0.00001  0.00001  0.00001  0.00002  0.00003  0.00003  0.00004  0.00000  0.00004  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[28]:  0.00005  0.00001  0.00005  0.00002  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[29]:  0.00001  0.00000  0.00001  0.00001  0.00001  0.00003  0.00003  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[30]:  0.00002  0.00000  0.00002  0.00004  0.00001  0.00005  0.00007  0.00003  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[31]:  0.00003  0.00001  0.00003  0.00003  0.00000  0.00002  0.00002  0.00001  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[32]:  0.00001  0.00000  0.00002  0.00001  0.00000  0.00001  0.00001  0.00001  0.00002  0.00000  0.00002  0.00000  0.00000  0.00000  0.00000  0.00000
+   BMD Module[33]:  0.00001  0.00000  0.00001  0.00003  0.00001  0.00006  0.00007  0.00004  0.00001  0.00000  0.00001  0.00000  0.00000  0.00000  0.00000  0.00000
+
+
+Singles Data:
+   Singles Data Checksum: 992237317
+   Singles Total Counts: 3977582700
+
+   Singles Average Block Counts: 7311708
+   Singles Block Min Counts:  5653957  Module (0-33): 23  Block (0-15):  0
+   Singles Block Max Counts:  8838778  Module (0-33):  5  Block (0-15): 13
+
+   Singles Average Crystal Counts: 203103
+   Singles Crystal Min Counts:  122976  Module (0-33): 17  Block (0-15): 15  Crystal X: 3 Z: 8
+   Singles Crystal Max Counts:  283223  Module (0-33):  5  Block (0-15): 10  Crystal X: 2 Z: 8
+
+   BS Module #     Block 0  Block 1  Block 2  Block 3  Block 4  Block 5  Block 6  Block 7  Block 8  Block 9  Block 10  Block 11  Block 12  Block 13  Block 14  Block 15
+   ------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- --------
+   BS Module[ 0]:  6380537  6407844  6422475  6459213  7397565  7454146  7473395  7497307  8364232  8443761  8445746  8463676  8528270  8655930  8684847  8650629
+   BS Module[ 1]:  6335351  6384722  6383717  6410188  7404370  7430373  7444601  7467949  8412946  8466316  8481368  8483120  8647220  8722670  8750802  8728173
+   BS Module[ 2]:  6345159  6359253  6358544  6379288  7474116  7506144  7530341  7504190  8487886  8509527  8509423  8544938  8638101  8701772  8696742  8639883
+   BS Module[ 3]:  6426837  6411387  6409497  6379273  7477665  7482303  7491687  7482000  8513989  8533325  8530168  8514139  8784243  8788287  8797233  8764895
+   BS Module[ 4]:  6458288  6429487  6413482  6400208  7452923  7445762  7444234  7426231  8453781  8468757  8437385  8435563  8758335  8797094  8766994  8705243
+   BS Module[ 5]:  6418294  6371856  6345029  6328503  7461015  7435579  7412230  7398438  8516097  8487414  8487510  8461146  8801850  8838778  8816148  8742013
+   BS Module[ 6]:  6323510  6311115  6260952  6256398  7431174  7405862  7387986  7359777  8477350  8432420  8424619  8412017  8706027  8735922  8719227  8657057
+   BS Module[ 7]:  6343516  6295390  6289235  6272774  7386037  7329258  7318608  7292884  8451246  8393358  8365221  8345741  8705860  8701292  8703212  8614759
+   BS Module[ 8]:  6324506  6245904  6231474  6224258  7344007  7299478  7260658  7261827  8467283  8400836  8381070  8320953  8737147  8686367  8711556  8564194
+   BS Module[ 9]:  6229656  6155617  6143444  6099060  7283602  7223056  7193643  7170581  8303894  8226890  8203419  8138512  8636986  8622846  8569549  8499856
+   BS Module[10]:  6143188  6031834  5982012  5923539  7235636  7149275  7119204  7055095  8270139  8218303  8183704  8126787  8546867  8539598  8511065  8402241
+   BS Module[11]:  5987900  5900294  5875957  5883538  7091072  6981451  6976966  6916090  8199374  8104345  8082855  8024333  8485086  8449540  8410251  8301757
+   BS Module[12]:  5939441  5914963  5935437  5935934  7045717  6997816  6978872  6918559  8083981  8015507  8010521  7954830  8407371  8371180  8349149  8218161
+   BS Module[13]:  6014331  5923533  5878995  5844578  6997030  6908137  6881790  6828116  7975711  7886249  7845751  7774841  8268623  8226952  8165359  8065660
+   BS Module[14]:  5883784  5833763  5792272  5780510  6853096  6788532  6748057  6680776  7904118  7803754  7775486  7693857  8132415  8087618  8035166  7877551
+   BS Module[15]:  5830813  5774970  5734320  5698376  6768599  6673837  6661351  6606910  7764543  7697098  7657565  7591992  8131359  8104596  8064115  7960495
+   BS Module[16]:  5813098  5767013  5719194  5705372  6680231  6617311  6595414  6548339  7654477  7583815  7566454  7506616  7819444  7771471  7752193  7659196
+   BS Module[17]:  5796821  5754648  5750059  5714260  6671959  6609920  6584601  6538485  7626319  7588340  7565078  7481519  7718165  7668072  7668658  7561507
+   BS Module[18]:  5761856  5722321  5713304  5668918  6655318  6587566  6573023  6534024  7542634  7497553  7482866  7424651  7736488  7738776  7705880  7605785
+   BS Module[19]:  5776473  5701704  5708628  5692696  6628911  6580922  6568479  6547028  7512297  7454051  7433308  7402392  7881504  7831233  7824176  7762028
+   BS Module[20]:  5699427  5681419  5702249  5674621  6613319  6585391  6606269  6611053  7483829  7488863  7500295  7462492  7699332  7745595  7750386  7701806
+   BS Module[21]:  5780354  5756276  5740478  5736535  6660671  6637779  6670622  6628231  7538761  7535777  7534894  7527828  7750288  7776272  7770787  7676298
+   BS Module[22]:  5718500  5704767  5698714  5659607  6632816  6630463  6655069  6625297  7539094  7540169  7522933  7509885  7710552  7777276  7754210  7735519
+   BS Module[23]:  5653957  5665684  5702665  5746668  6602910  6613110  6631557  6657859  7488219  7522117  7550880  7577183  7804258  7863338  7866371  7857330
+   BS Module[24]:  5789959  5789197  5832318  5870047  6724940  6737693  6759791  6790061  7564282  7595662  7606227  7613145  7715422  7796571  7815706  7781078
+   BS Module[25]:  5844051  5849316  5877183  5929135  6701780  6729892  6750899  6794989  7568940  7612730  7626666  7649205  7755805  7833093  7857148  7865178
+   BS Module[26]:  5883112  5884489  5906488  5937117  6740214  6786972  6797512  6854605  7638865  7698019  7710277  7754431  7834002  7928668  7970579  7991809
+   BS Module[27]:  5928808  5967263  5972067  6017876  6829351  6871605  6882784  6934215  7740445  7785317  7810057  7855959  7867730  7943986  8003472  8002981
+   BS Module[28]:  5951141  5980561  5994884  6055648  6854645  6886808  6912038  6977468  7733658  7783111  7808865  7866754  7906107  8026214  8078014  8116214
+   BS Module[29]:  5994690  6008033  6068170  6127914  6945272  7011659  7033538  7096234  7819428  7925563  7968020  8027357  8069104  8149469  8157183  8199188
+   BS Module[30]:  6121385  6158672  6189943  6267120  7051683  7133877  7160978  7202186  7927989  8016009  8048085  8106774  8089264  8208328  8265709  8290557
+   BS Module[31]:  6132071  6187567  6195551  6236923  7128519  7211725  7232594  7268086  8005559  8092022  8137104  8188138  8255316  8361038  8370704  8394485
+   BS Module[32]:  6202789  6241251  6258757  6302866  7235196  7272394  7307641  7345110  8170289  8220055  8256519  8275417  8410854  8518227  8537413  8530257
+   BS Module[33]:  6274164  6331988  6336830  6357894  7298632  7327019  7341263  7408665  8198387  8270808  8301890  8329075  8365014  8488554  8537768  8532222
+
+
+3D Crystal Efficiency Data:
+   EMPTY
+
+
+
+CTC  Crystal  Data:
+   EMPTY
+

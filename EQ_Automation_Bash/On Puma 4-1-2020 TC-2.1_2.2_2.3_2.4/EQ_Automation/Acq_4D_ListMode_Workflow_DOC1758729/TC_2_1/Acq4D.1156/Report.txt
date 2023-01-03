@@ -1,0 +1,812 @@
+------------------ Data in the List file -------------------- | -------------- Data in the Sinogram file ------------------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+examData.patientID: 					      |	examData.patientID: 1
+examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1	examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1
+examData.Operator: 					      |	examData.Operator: RA
+examData.scanID: 5e4d62bc5265a70f				examData.scanID: 5e4d62bc5265a70f
+examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84 |	examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84
+examData.patientID: 					      |	examData.patientID: 1
+examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1	examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1
+examData.Operator: 					      |	examData.Operator: RA
+examData.scanID: 5e4d62bc5265a70f				examData.scanID: 5e4d62bc5265a70f
+examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84 |	examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84
+examData.patientID: 					      |	examData.patientID: 1
+examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1	examData.examIdDicom: 1.2.840.113619.2.405.3.3573780520.520.1
+examData.Operator: 					      |	examData.Operator: RA
+examData.scanID: 5e4d62bc5265a70f				examData.scanID: 5e4d62bc5265a70f
+examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84 |	examData.scanIdDicom: 1.2.840.113619.2.405.9999.1582129852.84
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+---------------------------------------------- Test PASSED ---------------------------------------------
+Acqusition Parameters - System Geometry - Det Moudle Temperature - Det Moudle Serial Nos - Det Block Valid Flags are identecal
+-------------------------------------------------------------------------------------------------------------------------------
+acqParams.RDFAcqLandmarkParams.landmarkQualifier: 3		acqParams.RDFAcqLandmarkParams.landmarkQualifier: 3
+acqParams.RDFAcqLandmarkParams.patientEntry: 0			acqParams.RDFAcqLandmarkParams.patientEntry: 0
+acqParams.RDFAcqLandmarkParams.patientPosition: 1		acqParams.RDFAcqLandmarkParams.patientPosition: 1
+acqParams.RDFAcqLandmarkParams.gantryTilt: 0			acqParams.RDFAcqLandmarkParams.gantryTilt: 0
+acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833	acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833
+acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860	acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860
+acqParams.RDFAcqLandmarkParams.tableElevation: 116		acqParams.RDFAcqLandmarkParams.tableElevation: 116
+acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136	acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136
+acqParams.RDFAcqRxScanParams.scanPerspective: 0			acqParams.RDFAcqRxScanParams.scanPerspective: 0
+acqParams.RDFAcqRxScanParams.scanType: 0			acqParams.RDFAcqRxScanParams.scanType: 0
+acqParams.RDFAcqRxScanParams.scanMode: 0			acqParams.RDFAcqRxScanParams.scanMode: 0
+acqParams.RDFAcqRxScanParams.eventSource: 0			acqParams.RDFAcqRxScanParams.eventSource: 0
+acqParams.RDFAcqRxScanParams.eventSimulationData: 		acqParams.RDFAcqRxScanParams.eventSimulationData: 
+acqParams.RDFAcqRxScanParams.startCondition: 1			acqParams.RDFAcqRxScanParams.startCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondition: 1			acqParams.RDFAcqRxScanParams.stopCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondData: 0			acqParams.RDFAcqRxScanParams.stopCondData: 0
+acqParams.RDFAcqRxScanParams.delayedEvents: 0			acqParams.RDFAcqRxScanParams.delayedEvents: 0
+acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0		acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0
+acqParams.RDFAcqRxScanParams.thetaCompression: 1		acqParams.RDFAcqRxScanParams.thetaCompression: 1
+acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000		acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000
+acqParams.RDFAcqRxScanParams.collimation: 0			acqParams.RDFAcqRxScanParams.collimation: 0
+acqParams.RDFAcqRxScanParams.tableLocation: -124.805000		acqParams.RDFAcqRxScanParams.tableLocation: -124.805000
+acqParams.RDFAcqRxScanParams.acqDelay: 30			acqParams.RDFAcqRxScanParams.acqDelay: 30
+acqParams.RDFAcqRxScanParams.acqTime: 100			acqParams.RDFAcqRxScanParams.acqTime: 100
+acqParams.RDFAcqRxScanParams.startAngle: 0.000000		acqParams.RDFAcqRxScanParams.startAngle: 0.000000
+acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765		acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765
+acqParams.RDFAcqRxScanParams.angleThickness: 0.661765		acqParams.RDFAcqRxScanParams.angleThickness: 0.661765
+acqParams.RDFAcqRxScanParams.startSlice: 1			acqParams.RDFAcqRxScanParams.startSlice: 1
+acqParams.RDFAcqRxScanParams.deltaSlice: 1			acqParams.RDFAcqRxScanParams.deltaSlice: 1
+acqParams.RDFAcqRxScanParams.slicesCompressed: 1		acqParams.RDFAcqRxScanParams.slicesCompressed: 1
+acqParams.RDFAcqRxScanParams.singleCollect: 1			acqParams.RDFAcqRxScanParams.singleCollect: 1
+acqParams.RDFAcqRxScanParams.deadtimeCollect: 1			acqParams.RDFAcqRxScanParams.deadtimeCollect: 1
+acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0			acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0
+acqParams.RDFAcqRxScanParams.axialCompression: 1		acqParams.RDFAcqRxScanParams.axialCompression: 1
+acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13		acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13
+acqParams.RDFAcqRxScanParams.startCondData: 0			acqParams.RDFAcqRxScanParams.startCondData: 0
+acqParams.RDFAcqRxScanParams.axialAcceptance: 2			acqParams.RDFAcqRxScanParams.axialAcceptance: 2
+acqParams.RDFAcqRxScanParams.retroScan: 0			acqParams.RDFAcqRxScanParams.retroScan: 0
+acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.posCoincidenceWindow: 188		acqParams.RDFEdcatParameters.posCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.negCoincidenceWindow: 188		acqParams.RDFEdcatParameters.negCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.delayWindowOffset: 32		acqParams.RDFEdcatParameters.delayWindowOffset: 32
+acqParams.RDFEdcatParameters.transAxialFOV: 70			acqParams.RDFEdcatParameters.transAxialFOV: 70
+acqParams.RDFEdcatParameters.eventIntegrationMode: 0		acqParams.RDFEdcatParameters.eventIntegrationMode: 0
+acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3			acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3
+acqParams.RDFEdcatParameters.crystalsInTFOV: 415		acqParams.RDFEdcatParameters.crystalsInTFOV: 415
+acqParams.RDFEdcatParameters.coinOutputMode: 802		acqParams.RDFEdcatParameters.coinOutputMode: 802
+acqParams.RDFEdcatParameters.upper_energy_limit: 650		acqParams.RDFEdcatParameters.upper_energy_limit: 650
+acqParams.RDFEdcatParameters.lower_energy_limit: 225		acqParams.RDFEdcatParameters.lower_energy_limit: 225
+acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200		acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200
+acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020	acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020
+acqParams.RDFBackEndAcqFilters.maxRingDiff: 35			acqParams.RDFBackEndAcqFilters.maxRingDiff: 35
+acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188		acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188
+acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000	acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000
+acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000		acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000
+acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000		acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000
+acqParams.RDFAcqRxGatedParams.physioGatingType: 1		acqParams.RDFAcqRxGatedParams.physioGatingType: 1
+acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0		acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0
+acqParams.RDFAcqRxGatedParams.binningMode: 0			acqParams.RDFAcqRxGatedParams.binningMode: 0
+acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0		acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0
+acqParams.RDFAcqRxGatedParams.numberOfBins: 0			acqParams.RDFAcqRxGatedParams.numberOfBins: 0
+acqParams.RDFAcqRxGatedParams.trigRejMethod: 0			acqParams.RDFAcqRxGatedParams.trigRejMethod: 0
+acqParams.RDFAcqRxGatedParams.nTrigRejections: 0		acqParams.RDFAcqRxGatedParams.nTrigRejections: 0
+acqParams.RDFAcqRxGatedParams.upperRejLimit: 0			acqParams.RDFAcqRxGatedParams.upperRejLimit: 0
+acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0			acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0
+acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0	acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0
+acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 	acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 
+acqParams->RDFImageNumberAids.locationOfImageOne:  70.5		acqParams->RDFImageNumberAids.locationOfImageOne:  70.5
+acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4	acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4
+acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2	acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2
+acqParams.RDFAcqLandmarkParams.landmarkQualifier: 1		acqParams.RDFAcqLandmarkParams.landmarkQualifier: 1
+acqParams.RDFAcqLandmarkParams.patientEntry: 0			acqParams.RDFAcqLandmarkParams.patientEntry: 0
+acqParams.RDFAcqLandmarkParams.patientPosition: 1		acqParams.RDFAcqLandmarkParams.patientPosition: 1
+acqParams.RDFAcqLandmarkParams.gantryTilt: 0			acqParams.RDFAcqLandmarkParams.gantryTilt: 0
+acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833	acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833
+acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860	acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860
+acqParams.RDFAcqLandmarkParams.tableElevation: 116		acqParams.RDFAcqLandmarkParams.tableElevation: 116
+acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136	acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136
+acqParams.RDFAcqRxScanParams.scanPerspective: 0			acqParams.RDFAcqRxScanParams.scanPerspective: 0
+acqParams.RDFAcqRxScanParams.scanType: 0			acqParams.RDFAcqRxScanParams.scanType: 0
+acqParams.RDFAcqRxScanParams.scanMode: 0			acqParams.RDFAcqRxScanParams.scanMode: 0
+acqParams.RDFAcqRxScanParams.eventSource: 0			acqParams.RDFAcqRxScanParams.eventSource: 0
+acqParams.RDFAcqRxScanParams.eventSimulationData: 		acqParams.RDFAcqRxScanParams.eventSimulationData: 
+acqParams.RDFAcqRxScanParams.startCondition: 1			acqParams.RDFAcqRxScanParams.startCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondition: 1			acqParams.RDFAcqRxScanParams.stopCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondData: 0			acqParams.RDFAcqRxScanParams.stopCondData: 0
+acqParams.RDFAcqRxScanParams.delayedEvents: 0			acqParams.RDFAcqRxScanParams.delayedEvents: 0
+acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0		acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0
+acqParams.RDFAcqRxScanParams.thetaCompression: 1		acqParams.RDFAcqRxScanParams.thetaCompression: 1
+acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000		acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000
+acqParams.RDFAcqRxScanParams.collimation: 0			acqParams.RDFAcqRxScanParams.collimation: 0
+acqParams.RDFAcqRxScanParams.tableLocation: -320.105011		acqParams.RDFAcqRxScanParams.tableLocation: -320.105011
+acqParams.RDFAcqRxScanParams.acqDelay: 0			acqParams.RDFAcqRxScanParams.acqDelay: 0
+acqParams.RDFAcqRxScanParams.acqTime: 100			acqParams.RDFAcqRxScanParams.acqTime: 100
+acqParams.RDFAcqRxScanParams.startAngle: 0.000000		acqParams.RDFAcqRxScanParams.startAngle: 0.000000
+acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765		acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765
+acqParams.RDFAcqRxScanParams.angleThickness: 0.661765		acqParams.RDFAcqRxScanParams.angleThickness: 0.661765
+acqParams.RDFAcqRxScanParams.startSlice: 1			acqParams.RDFAcqRxScanParams.startSlice: 1
+acqParams.RDFAcqRxScanParams.deltaSlice: 1			acqParams.RDFAcqRxScanParams.deltaSlice: 1
+acqParams.RDFAcqRxScanParams.slicesCompressed: 1		acqParams.RDFAcqRxScanParams.slicesCompressed: 1
+acqParams.RDFAcqRxScanParams.singleCollect: 1			acqParams.RDFAcqRxScanParams.singleCollect: 1
+acqParams.RDFAcqRxScanParams.deadtimeCollect: 1			acqParams.RDFAcqRxScanParams.deadtimeCollect: 1
+acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0			acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0
+acqParams.RDFAcqRxScanParams.axialCompression: 1		acqParams.RDFAcqRxScanParams.axialCompression: 1
+acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13		acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13
+acqParams.RDFAcqRxScanParams.startCondData: 0			acqParams.RDFAcqRxScanParams.startCondData: 0
+acqParams.RDFAcqRxScanParams.axialAcceptance: 2			acqParams.RDFAcqRxScanParams.axialAcceptance: 2
+acqParams.RDFAcqRxScanParams.retroScan: 0			acqParams.RDFAcqRxScanParams.retroScan: 0
+acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.posCoincidenceWindow: 188		acqParams.RDFEdcatParameters.posCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.negCoincidenceWindow: 188		acqParams.RDFEdcatParameters.negCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.delayWindowOffset: 32		acqParams.RDFEdcatParameters.delayWindowOffset: 32
+acqParams.RDFEdcatParameters.transAxialFOV: 70			acqParams.RDFEdcatParameters.transAxialFOV: 70
+acqParams.RDFEdcatParameters.eventIntegrationMode: 0		acqParams.RDFEdcatParameters.eventIntegrationMode: 0
+acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3			acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3
+acqParams.RDFEdcatParameters.crystalsInTFOV: 415		acqParams.RDFEdcatParameters.crystalsInTFOV: 415
+acqParams.RDFEdcatParameters.coinOutputMode: 802		acqParams.RDFEdcatParameters.coinOutputMode: 802
+acqParams.RDFEdcatParameters.upper_energy_limit: 650		acqParams.RDFEdcatParameters.upper_energy_limit: 650
+acqParams.RDFEdcatParameters.lower_energy_limit: 225		acqParams.RDFEdcatParameters.lower_energy_limit: 225
+acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200		acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200
+acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020	acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020
+acqParams.RDFBackEndAcqFilters.maxRingDiff: 35			acqParams.RDFBackEndAcqFilters.maxRingDiff: 35
+acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188		acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188
+acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000	acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000
+acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000		acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000
+acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000		acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000
+acqParams.RDFAcqRxGatedParams.physioGatingType: 1		acqParams.RDFAcqRxGatedParams.physioGatingType: 1
+acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0		acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0
+acqParams.RDFAcqRxGatedParams.binningMode: 0			acqParams.RDFAcqRxGatedParams.binningMode: 0
+acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0		acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0
+acqParams.RDFAcqRxGatedParams.numberOfBins: 0			acqParams.RDFAcqRxGatedParams.numberOfBins: 0
+acqParams.RDFAcqRxGatedParams.trigRejMethod: 0			acqParams.RDFAcqRxGatedParams.trigRejMethod: 0
+acqParams.RDFAcqRxGatedParams.nTrigRejections: 0		acqParams.RDFAcqRxGatedParams.nTrigRejections: 0
+acqParams.RDFAcqRxGatedParams.upperRejLimit: 0			acqParams.RDFAcqRxGatedParams.upperRejLimit: 0
+acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0			acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0
+acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0	acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0
+acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 	acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 
+acqParams->RDFImageNumberAids.locationOfImageOne:  70.5		acqParams->RDFImageNumberAids.locationOfImageOne:  70.5
+acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4	acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4
+acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2	acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2
+acqParams.RDFAcqLandmarkParams.landmarkQualifier: 1		acqParams.RDFAcqLandmarkParams.landmarkQualifier: 1
+acqParams.RDFAcqLandmarkParams.patientEntry: 0			acqParams.RDFAcqLandmarkParams.patientEntry: 0
+acqParams.RDFAcqLandmarkParams.patientPosition: 1		acqParams.RDFAcqLandmarkParams.patientPosition: 1
+acqParams.RDFAcqLandmarkParams.gantryTilt: 0			acqParams.RDFAcqLandmarkParams.gantryTilt: 0
+acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833	acqParams.RDFAcqLandmarkParams.absTableLongitude: 628833
+acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860	acqParams.RDFAcqLandmarkParams.landmarkDateTime: 1582129860
+acqParams.RDFAcqLandmarkParams.tableElevation: 116		acqParams.RDFAcqLandmarkParams.tableElevation: 116
+acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136	acqParams.RDFAcqRxScanParams.frame_of_reference: 1.2.840.1136
+acqParams.RDFAcqRxScanParams.scanPerspective: 0			acqParams.RDFAcqRxScanParams.scanPerspective: 0
+acqParams.RDFAcqRxScanParams.scanType: 0			acqParams.RDFAcqRxScanParams.scanType: 0
+acqParams.RDFAcqRxScanParams.scanMode: 0			acqParams.RDFAcqRxScanParams.scanMode: 0
+acqParams.RDFAcqRxScanParams.eventSource: 0			acqParams.RDFAcqRxScanParams.eventSource: 0
+acqParams.RDFAcqRxScanParams.eventSimulationData: 		acqParams.RDFAcqRxScanParams.eventSimulationData: 
+acqParams.RDFAcqRxScanParams.startCondition: 1			acqParams.RDFAcqRxScanParams.startCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondition: 1			acqParams.RDFAcqRxScanParams.stopCondition: 1
+acqParams.RDFAcqRxScanParams.stopCondData: 0			acqParams.RDFAcqRxScanParams.stopCondData: 0
+acqParams.RDFAcqRxScanParams.delayedEvents: 0			acqParams.RDFAcqRxScanParams.delayedEvents: 0
+acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0		acqParams.RDFAcqRxScanParams.delayedSubtractBias: 0
+acqParams.RDFAcqRxScanParams.thetaCompression: 1		acqParams.RDFAcqRxScanParams.thetaCompression: 1
+acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000		acqParams.RDFAcqRxScanParams.gantryTilt: 0.000000
+acqParams.RDFAcqRxScanParams.collimation: 0			acqParams.RDFAcqRxScanParams.collimation: 0
+acqParams.RDFAcqRxScanParams.tableLocation: -515.404968		acqParams.RDFAcqRxScanParams.tableLocation: -515.404968
+acqParams.RDFAcqRxScanParams.acqDelay: 0			acqParams.RDFAcqRxScanParams.acqDelay: 0
+acqParams.RDFAcqRxScanParams.acqTime: 100			acqParams.RDFAcqRxScanParams.acqTime: 100
+acqParams.RDFAcqRxScanParams.startAngle: 0.000000		acqParams.RDFAcqRxScanParams.startAngle: 0.000000
+acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765		acqParams.RDFAcqRxScanParams.deltaAngle: 0.661765
+acqParams.RDFAcqRxScanParams.angleThickness: 0.661765		acqParams.RDFAcqRxScanParams.angleThickness: 0.661765
+acqParams.RDFAcqRxScanParams.startSlice: 1			acqParams.RDFAcqRxScanParams.startSlice: 1
+acqParams.RDFAcqRxScanParams.deltaSlice: 1			acqParams.RDFAcqRxScanParams.deltaSlice: 1
+acqParams.RDFAcqRxScanParams.slicesCompressed: 1		acqParams.RDFAcqRxScanParams.slicesCompressed: 1
+acqParams.RDFAcqRxScanParams.singleCollect: 1			acqParams.RDFAcqRxScanParams.singleCollect: 1
+acqParams.RDFAcqRxScanParams.deadtimeCollect: 1			acqParams.RDFAcqRxScanParams.deadtimeCollect: 1
+acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0			acqParams.RDFAcqRxScanParams.TransPlusEmiss: 0
+acqParams.RDFAcqRxScanParams.axialCompression: 1		acqParams.RDFAcqRxScanParams.axialCompression: 1
+acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13		acqParams.RDFAcqRxScanParams.tofCompressionFactor: 13
+acqParams.RDFAcqRxScanParams.startCondData: 0			acqParams.RDFAcqRxScanParams.startCondData: 0
+acqParams.RDFAcqRxScanParams.axialAcceptance: 2			acqParams.RDFAcqRxScanParams.axialAcceptance: 2
+acqParams.RDFAcqRxScanParams.retroScan: 0			acqParams.RDFAcqRxScanParams.retroScan: 0
+acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.posAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35	acqParams.RDFEdcatParameters.negAxialAcceptanceAngle: 35
+acqParams.RDFEdcatParameters.posCoincidenceWindow: 188		acqParams.RDFEdcatParameters.posCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.negCoincidenceWindow: 188		acqParams.RDFEdcatParameters.negCoincidenceWindow: 188
+acqParams.RDFEdcatParameters.delayWindowOffset: 32		acqParams.RDFEdcatParameters.delayWindowOffset: 32
+acqParams.RDFEdcatParameters.transAxialFOV: 70			acqParams.RDFEdcatParameters.transAxialFOV: 70
+acqParams.RDFEdcatParameters.eventIntegrationMode: 0		acqParams.RDFEdcatParameters.eventIntegrationMode: 0
+acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3			acqParams.RDFAcqRxScanParams.extraRsForTFOV: 3
+acqParams.RDFEdcatParameters.crystalsInTFOV: 415		acqParams.RDFEdcatParameters.crystalsInTFOV: 415
+acqParams.RDFEdcatParameters.coinOutputMode: 802		acqParams.RDFEdcatParameters.coinOutputMode: 802
+acqParams.RDFEdcatParameters.upper_energy_limit: 650		acqParams.RDFEdcatParameters.upper_energy_limit: 650
+acqParams.RDFEdcatParameters.lower_energy_limit: 225		acqParams.RDFEdcatParameters.lower_energy_limit: 225
+acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200		acqParams.RDFEdcatParameters.majorClockPeriodFEE: 200
+acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020	acqParams.RDFEdcatParameters.coincTimingPrecision: 0.013020
+acqParams.RDFBackEndAcqFilters.maxRingDiff: 35			acqParams.RDFBackEndAcqFilters.maxRingDiff: 35
+acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188		acqParams.RDFBackEndAcqFilters.maxCoincDiffLSBs: 188
+acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000	acqParams.RDFBackEndAcqFilters.transaxialFovInMM: 700.000000
+acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000		acqParams.RDFBackEndAcqFilters.maxEnergyKeV: 650.000000
+acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000		acqParams.RDFBackEndAcqFilters.minEnergyKeV: 225.000000
+acqParams.RDFAcqRxGatedParams.physioGatingType: 1		acqParams.RDFAcqRxGatedParams.physioGatingType: 1
+acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0		acqParams.RDFAcqRxGatedParams.physioSignalOrigin: 0
+acqParams.RDFAcqRxGatedParams.binningMode: 0			acqParams.RDFAcqRxGatedParams.binningMode: 0
+acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0		acqParams.RDFAcqRxGatedParams.isQuiescentGating: 0
+acqParams.RDFAcqRxGatedParams.numberOfBins: 0			acqParams.RDFAcqRxGatedParams.numberOfBins: 0
+acqParams.RDFAcqRxGatedParams.trigRejMethod: 0			acqParams.RDFAcqRxGatedParams.trigRejMethod: 0
+acqParams.RDFAcqRxGatedParams.nTrigRejections: 0		acqParams.RDFAcqRxGatedParams.nTrigRejections: 0
+acqParams.RDFAcqRxGatedParams.upperRejLimit: 0			acqParams.RDFAcqRxGatedParams.upperRejLimit: 0
+acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0			acqParams.RDFAcqRxGatedParams.lowerRejLimit: 0
+acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0	acqParams.RDFAcqRxGatedParams.cardiacTriggerPhaseOffset: 0
+acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 	acqParams.RDFAcqRxGatedParams.respiratoryTriggerPhaseOffset: 
+acqParams->RDFImageNumberAids.locationOfImageOne:  70.5		acqParams->RDFImageNumberAids.locationOfImageOne:  70.5
+acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4	acqParams->RDFImageNumberAids.locationOfImageOneIndx: -515.4
+acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2	acqParams->RDFImageNumberAids.prospectiveNumbOfImageSlices: 2
+-------------------------------------------------------------------------------------------------------------------------------
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerUnit: 4					sysGeo.radialBlocksPerUnit: 4
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.radialCrystalsPerBlock: 4				sysGeo.radialCrystalsPerBlock: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerUnit: 1					sysGeo.axialBlocksPerUnit: 1
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+sysGeo.axialCrystalsPerBlock: 9					sysGeo.axialCrystalsPerBlock: 9
+sysGeo.unit_width_mm: 64.500000					sysGeo.unit_width_mm: 64.500000
+sysGeo.unit_height_mm: 47.840000				sysGeo.unit_height_mm: 47.840000
+sysGeo.unit_depth_mm: 25.000000					sysGeo.unit_depth_mm: 25.000000
+sysGeo.detectorRadialSize: 372.000000				sysGeo.detectorRadialSize: 372.000000
+sysGeo.detectorAxialSize: 199.759995				sysGeo.detectorAxialSize: 199.759995
+sysGeo.axialCrystalGap: 0.000000				sysGeo.axialCrystalGap: 0.000000
+sysGeo.radialCrystalGap: 0.000000				sysGeo.radialCrystalGap: 0.000000
+sysGeo.axialBlockGap: 2.800000					sysGeo.axialBlockGap: 2.800000
+sysGeo.radialBlockGap: 0.300000					sysGeo.radialBlockGap: 0.300000
+sysGeo.axialCassetteGap: 1.500000				sysGeo.axialCassetteGap: 1.500000
+sysGeo.radialCassetteGap: 1.500000				sysGeo.radialCassetteGap: 1.500000
+sysGeo.sourceRadius: 372.000000					sysGeo.sourceRadius: 372.000000
+sysGeo.collimatorInnerRadius: 379.200012			sysGeo.collimatorInnerRadius: 379.200012
+sysGeo.collimatorOuterRadius: 400.000000			sysGeo.collimatorOuterRadius: 400.000000
+sysGeo.delaysCorrectionFactor: 1.000000				sysGeo.delaysCorrectionFactor: 1.000000
+sysGeo.effectiveRingDiameter: 761.000000			sysGeo.effectiveRingDiameter: 761.000000
+sysGeo.blockRepeatFactor: 16					sysGeo.blockRepeatFactor: 16
+sysGeo.interCrystalPitch: 0.010590				sysGeo.interCrystalPitch: 0.010590
+sysGeo.interBlockPitch: 0.015360				sysGeo.interBlockPitch: 0.015360
+sysGeo.transaxial_crystal_0_offset: -4.399000			sysGeo.transaxial_crystal_0_offset: -4.399000
+sysGeo.photoMultiplierType: 2					sysGeo.photoMultiplierType: 2
+sysGeo.vqc_XaxisTranslation: -3.6				sysGeo.vqc_XaxisTranslation: -3.6
+sysGeo.vqc_YaxisTranslation: 2.8				sysGeo.vqc_YaxisTranslation: 2.8
+sysGeo.vqc_ZaxisTranslation: -1.3				sysGeo.vqc_ZaxisTranslation: -1.3
+sysGeo.vqc_XaxisTilt: -0.2					sysGeo.vqc_XaxisTilt: -0.2
+sysGeo.vqc_YaxisSwivel: -0.1					sysGeo.vqc_YaxisSwivel: -0.1
+sysGeo.vqc_ZaxisRoll: 0.2					sysGeo.vqc_ZaxisRoll: 0.2
+sysGeo.dt_3dpileUp_factors[0]: 0.000000				sysGeo.dt_3dpileUp_factors[0]: 0.000000
+sysGeo.dt_3dpileUp_factors[1]: 0.000000				sysGeo.dt_3dpileUp_factors[1]: 0.000000
+sysGeo.dt_3dpileUp_factors[2]: 0.000000				sysGeo.dt_3dpileUp_factors[2]: 0.000000
+sysGeo.dt_3dpileUp_factors[3]: 0.000000				sysGeo.dt_3dpileUp_factors[3]: 0.000000
+sysGeo.dt_3dpileUp_factors[4]: 0.000000				sysGeo.dt_3dpileUp_factors[4]: 0.000000
+sysGeo.dt_3dpileUp_factors[5]: 0.000000				sysGeo.dt_3dpileUp_factors[5]: 0.000000
+sysGeo.dt_3dpileUp_factors[6]: 0.000000				sysGeo.dt_3dpileUp_factors[6]: 0.000000
+sysGeo.dt_3dpileUp_factors[7]: 0.000000				sysGeo.dt_3dpileUp_factors[7]: 0.000000
+sysGeo.dt_3dpileUp_factors[8]: 0.000000				sysGeo.dt_3dpileUp_factors[8]: 0.000000
+sysGeo.dt_3dpileUp_factors[9]: 0.000000				sysGeo.dt_3dpileUp_factors[9]: 0.000000
+sysGeo.dt_3dpileUp_factors[10]: 0.000000			sysGeo.dt_3dpileUp_factors[10]: 0.000000
+sysGeo.dt_3dpileUp_factors[11]: 0.000000			sysGeo.dt_3dpileUp_factors[11]: 0.000000
+sysGeo.dt_3dpileUp_factors[12]: 0.000000			sysGeo.dt_3dpileUp_factors[12]: 0.000000
+sysGeo.dt_3dpileUp_factors[13]: 0.000000			sysGeo.dt_3dpileUp_factors[13]: 0.000000
+sysGeo.dt_3dpileUp_factors[14]: 0.000000			sysGeo.dt_3dpileUp_factors[14]: 0.000000
+sysGeo.dt_3dpileUp_factors[15]: 0.000000			sysGeo.dt_3dpileUp_factors[15]: 0.000000
+sysGeo.dt_3dpileUp_factors[16]: 0.000000			sysGeo.dt_3dpileUp_factors[16]: 0.000000
+sysGeo.dt_3dpileUp_factors[17]: 0.000000			sysGeo.dt_3dpileUp_factors[17]: 0.000000
+sysGeo.dt_3dpileUp_factors[18]: 0.000000			sysGeo.dt_3dpileUp_factors[18]: 0.000000
+sysGeo.dt_3dpileUp_factors[19]: 0.000000			sysGeo.dt_3dpileUp_factors[19]: 0.000000
+sysGeo.dt_3dpileUp_factors[20]: 0.000000			sysGeo.dt_3dpileUp_factors[20]: 0.000000
+sysGeo.dt_3dpileUp_factors[21]: 0.000000			sysGeo.dt_3dpileUp_factors[21]: 0.000000
+sysGeo.dt_3dpileUp_factors[22]: 0.000000			sysGeo.dt_3dpileUp_factors[22]: 0.000000
+sysGeo.dt_3dpileUp_factors[23]: 0.000000			sysGeo.dt_3dpileUp_factors[23]: 0.000000
+sysGeo.dt_3dpileUp_factors[24]: 0.000000			sysGeo.dt_3dpileUp_factors[24]: 0.000000
+sysGeo.dt_3dpileUp_factors[25]: 0.000000			sysGeo.dt_3dpileUp_factors[25]: 0.000000
+sysGeo.dt_3dpileUp_factors[26]: 0.000000			sysGeo.dt_3dpileUp_factors[26]: 0.000000
+sysGeo.dt_3dpileUp_factors[27]: 0.000000			sysGeo.dt_3dpileUp_factors[27]: 0.000000
+sysGeo.dt_3dpileUp_factors[28]: 0.000000			sysGeo.dt_3dpileUp_factors[28]: 0.000000
+sysGeo.dt_3dpileUp_factors[29]: 0.000000			sysGeo.dt_3dpileUp_factors[29]: 0.000000
+sysGeo.dt_3dpileUp_factors[30]: 0.000000			sysGeo.dt_3dpileUp_factors[30]: 0.000000
+sysGeo.dt_3dpileUp_factors[31]: 0.000000			sysGeo.dt_3dpileUp_factors[31]: 0.000000
+sysGeo.dt_3dpileUp_factors[32]: 0.000000			sysGeo.dt_3dpileUp_factors[32]: 0.000000
+sysGeo.dt_3dpileUp_factors[33]: 0.000000			sysGeo.dt_3dpileUp_factors[33]: 0.000000
+sysGeo.dt_3dpileUp_factors[34]: 0.000000			sysGeo.dt_3dpileUp_factors[34]: 0.000000
+sysGeo.dt_3dpileUp_factors[35]: 0.000000			sysGeo.dt_3dpileUp_factors[35]: 0.000000
+sysGeo.dt_3dintCorrectionConstant: 1.000000			sysGeo.dt_3dintCorrectionConstant: 1.000000
+sysGeo.dt_3dmuxCorrectionConstant: 0.000000			sysGeo.dt_3dmuxCorrectionConstant: 0.000000
+sysGeo.dt_3dtimingCorrectionConstant: 1.500000			sysGeo.dt_3dtimingCorrectionConstant: 1.500000
+sysGeo.collimatorType : 0					sysGeo.collimatorType : 0
+sysGeo.timingResolutionInPico : 0.000000			sysGeo.timingResolutionInPico : 0.000000
+sysGeo.avgBlockDeadtime: 0.001500				sysGeo.avgBlockDeadtime: 0.001500
+sysGeo.avgCrystalSingles: 51.790901				sysGeo.avgCrystalSingles: 51.790901
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerUnit: 4					sysGeo.radialBlocksPerUnit: 4
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.radialCrystalsPerBlock: 4				sysGeo.radialCrystalsPerBlock: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerUnit: 1					sysGeo.axialBlocksPerUnit: 1
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+sysGeo.axialCrystalsPerBlock: 9					sysGeo.axialCrystalsPerBlock: 9
+sysGeo.unit_width_mm: 64.500000					sysGeo.unit_width_mm: 64.500000
+sysGeo.unit_height_mm: 47.840000				sysGeo.unit_height_mm: 47.840000
+sysGeo.unit_depth_mm: 25.000000					sysGeo.unit_depth_mm: 25.000000
+sysGeo.detectorRadialSize: 372.000000				sysGeo.detectorRadialSize: 372.000000
+sysGeo.detectorAxialSize: 199.759995				sysGeo.detectorAxialSize: 199.759995
+sysGeo.axialCrystalGap: 0.000000				sysGeo.axialCrystalGap: 0.000000
+sysGeo.radialCrystalGap: 0.000000				sysGeo.radialCrystalGap: 0.000000
+sysGeo.axialBlockGap: 2.800000					sysGeo.axialBlockGap: 2.800000
+sysGeo.radialBlockGap: 0.300000					sysGeo.radialBlockGap: 0.300000
+sysGeo.axialCassetteGap: 1.500000				sysGeo.axialCassetteGap: 1.500000
+sysGeo.radialCassetteGap: 1.500000				sysGeo.radialCassetteGap: 1.500000
+sysGeo.sourceRadius: 372.000000					sysGeo.sourceRadius: 372.000000
+sysGeo.collimatorInnerRadius: 379.200012			sysGeo.collimatorInnerRadius: 379.200012
+sysGeo.collimatorOuterRadius: 400.000000			sysGeo.collimatorOuterRadius: 400.000000
+sysGeo.delaysCorrectionFactor: 1.000000				sysGeo.delaysCorrectionFactor: 1.000000
+sysGeo.effectiveRingDiameter: 761.000000			sysGeo.effectiveRingDiameter: 761.000000
+sysGeo.blockRepeatFactor: 16					sysGeo.blockRepeatFactor: 16
+sysGeo.interCrystalPitch: 0.010590				sysGeo.interCrystalPitch: 0.010590
+sysGeo.interBlockPitch: 0.015360				sysGeo.interBlockPitch: 0.015360
+sysGeo.transaxial_crystal_0_offset: -4.399000			sysGeo.transaxial_crystal_0_offset: -4.399000
+sysGeo.photoMultiplierType: 2					sysGeo.photoMultiplierType: 2
+sysGeo.vqc_XaxisTranslation: -3.6				sysGeo.vqc_XaxisTranslation: -3.6
+sysGeo.vqc_YaxisTranslation: 2.8				sysGeo.vqc_YaxisTranslation: 2.8
+sysGeo.vqc_ZaxisTranslation: -1.3				sysGeo.vqc_ZaxisTranslation: -1.3
+sysGeo.vqc_XaxisTilt: -0.2					sysGeo.vqc_XaxisTilt: -0.2
+sysGeo.vqc_YaxisSwivel: -0.1					sysGeo.vqc_YaxisSwivel: -0.1
+sysGeo.vqc_ZaxisRoll: 0.2					sysGeo.vqc_ZaxisRoll: 0.2
+sysGeo.dt_3dpileUp_factors[0]: 0.000000				sysGeo.dt_3dpileUp_factors[0]: 0.000000
+sysGeo.dt_3dpileUp_factors[1]: 0.000000				sysGeo.dt_3dpileUp_factors[1]: 0.000000
+sysGeo.dt_3dpileUp_factors[2]: 0.000000				sysGeo.dt_3dpileUp_factors[2]: 0.000000
+sysGeo.dt_3dpileUp_factors[3]: 0.000000				sysGeo.dt_3dpileUp_factors[3]: 0.000000
+sysGeo.dt_3dpileUp_factors[4]: 0.000000				sysGeo.dt_3dpileUp_factors[4]: 0.000000
+sysGeo.dt_3dpileUp_factors[5]: 0.000000				sysGeo.dt_3dpileUp_factors[5]: 0.000000
+sysGeo.dt_3dpileUp_factors[6]: 0.000000				sysGeo.dt_3dpileUp_factors[6]: 0.000000
+sysGeo.dt_3dpileUp_factors[7]: 0.000000				sysGeo.dt_3dpileUp_factors[7]: 0.000000
+sysGeo.dt_3dpileUp_factors[8]: 0.000000				sysGeo.dt_3dpileUp_factors[8]: 0.000000
+sysGeo.dt_3dpileUp_factors[9]: 0.000000				sysGeo.dt_3dpileUp_factors[9]: 0.000000
+sysGeo.dt_3dpileUp_factors[10]: 0.000000			sysGeo.dt_3dpileUp_factors[10]: 0.000000
+sysGeo.dt_3dpileUp_factors[11]: 0.000000			sysGeo.dt_3dpileUp_factors[11]: 0.000000
+sysGeo.dt_3dpileUp_factors[12]: 0.000000			sysGeo.dt_3dpileUp_factors[12]: 0.000000
+sysGeo.dt_3dpileUp_factors[13]: 0.000000			sysGeo.dt_3dpileUp_factors[13]: 0.000000
+sysGeo.dt_3dpileUp_factors[14]: 0.000000			sysGeo.dt_3dpileUp_factors[14]: 0.000000
+sysGeo.dt_3dpileUp_factors[15]: 0.000000			sysGeo.dt_3dpileUp_factors[15]: 0.000000
+sysGeo.dt_3dpileUp_factors[16]: 0.000000			sysGeo.dt_3dpileUp_factors[16]: 0.000000
+sysGeo.dt_3dpileUp_factors[17]: 0.000000			sysGeo.dt_3dpileUp_factors[17]: 0.000000
+sysGeo.dt_3dpileUp_factors[18]: 0.000000			sysGeo.dt_3dpileUp_factors[18]: 0.000000
+sysGeo.dt_3dpileUp_factors[19]: 0.000000			sysGeo.dt_3dpileUp_factors[19]: 0.000000
+sysGeo.dt_3dpileUp_factors[20]: 0.000000			sysGeo.dt_3dpileUp_factors[20]: 0.000000
+sysGeo.dt_3dpileUp_factors[21]: 0.000000			sysGeo.dt_3dpileUp_factors[21]: 0.000000
+sysGeo.dt_3dpileUp_factors[22]: 0.000000			sysGeo.dt_3dpileUp_factors[22]: 0.000000
+sysGeo.dt_3dpileUp_factors[23]: 0.000000			sysGeo.dt_3dpileUp_factors[23]: 0.000000
+sysGeo.dt_3dpileUp_factors[24]: 0.000000			sysGeo.dt_3dpileUp_factors[24]: 0.000000
+sysGeo.dt_3dpileUp_factors[25]: 0.000000			sysGeo.dt_3dpileUp_factors[25]: 0.000000
+sysGeo.dt_3dpileUp_factors[26]: 0.000000			sysGeo.dt_3dpileUp_factors[26]: 0.000000
+sysGeo.dt_3dpileUp_factors[27]: 0.000000			sysGeo.dt_3dpileUp_factors[27]: 0.000000
+sysGeo.dt_3dpileUp_factors[28]: 0.000000			sysGeo.dt_3dpileUp_factors[28]: 0.000000
+sysGeo.dt_3dpileUp_factors[29]: 0.000000			sysGeo.dt_3dpileUp_factors[29]: 0.000000
+sysGeo.dt_3dpileUp_factors[30]: 0.000000			sysGeo.dt_3dpileUp_factors[30]: 0.000000
+sysGeo.dt_3dpileUp_factors[31]: 0.000000			sysGeo.dt_3dpileUp_factors[31]: 0.000000
+sysGeo.dt_3dpileUp_factors[32]: 0.000000			sysGeo.dt_3dpileUp_factors[32]: 0.000000
+sysGeo.dt_3dpileUp_factors[33]: 0.000000			sysGeo.dt_3dpileUp_factors[33]: 0.000000
+sysGeo.dt_3dpileUp_factors[34]: 0.000000			sysGeo.dt_3dpileUp_factors[34]: 0.000000
+sysGeo.dt_3dpileUp_factors[35]: 0.000000			sysGeo.dt_3dpileUp_factors[35]: 0.000000
+sysGeo.dt_3dintCorrectionConstant: 1.000000			sysGeo.dt_3dintCorrectionConstant: 1.000000
+sysGeo.dt_3dmuxCorrectionConstant: 0.000000			sysGeo.dt_3dmuxCorrectionConstant: 0.000000
+sysGeo.dt_3dtimingCorrectionConstant: 1.500000			sysGeo.dt_3dtimingCorrectionConstant: 1.500000
+sysGeo.collimatorType : 0					sysGeo.collimatorType : 0
+sysGeo.timingResolutionInPico : 0.000000			sysGeo.timingResolutionInPico : 0.000000
+sysGeo.avgBlockDeadtime: 0.001500				sysGeo.avgBlockDeadtime: 0.001500
+sysGeo.avgCrystalSingles: 51.790901				sysGeo.avgCrystalSingles: 51.790901
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerUnit: 4					sysGeo.radialBlocksPerUnit: 4
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.radialCrystalsPerBlock: 4				sysGeo.radialCrystalsPerBlock: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerUnit: 1					sysGeo.axialBlocksPerUnit: 1
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+sysGeo.axialCrystalsPerBlock: 9					sysGeo.axialCrystalsPerBlock: 9
+sysGeo.unit_width_mm: 64.500000					sysGeo.unit_width_mm: 64.500000
+sysGeo.unit_height_mm: 47.840000				sysGeo.unit_height_mm: 47.840000
+sysGeo.unit_depth_mm: 25.000000					sysGeo.unit_depth_mm: 25.000000
+sysGeo.detectorRadialSize: 372.000000				sysGeo.detectorRadialSize: 372.000000
+sysGeo.detectorAxialSize: 199.759995				sysGeo.detectorAxialSize: 199.759995
+sysGeo.axialCrystalGap: 0.000000				sysGeo.axialCrystalGap: 0.000000
+sysGeo.radialCrystalGap: 0.000000				sysGeo.radialCrystalGap: 0.000000
+sysGeo.axialBlockGap: 2.800000					sysGeo.axialBlockGap: 2.800000
+sysGeo.radialBlockGap: 0.300000					sysGeo.radialBlockGap: 0.300000
+sysGeo.axialCassetteGap: 1.500000				sysGeo.axialCassetteGap: 1.500000
+sysGeo.radialCassetteGap: 1.500000				sysGeo.radialCassetteGap: 1.500000
+sysGeo.sourceRadius: 372.000000					sysGeo.sourceRadius: 372.000000
+sysGeo.collimatorInnerRadius: 379.200012			sysGeo.collimatorInnerRadius: 379.200012
+sysGeo.collimatorOuterRadius: 400.000000			sysGeo.collimatorOuterRadius: 400.000000
+sysGeo.delaysCorrectionFactor: 1.000000				sysGeo.delaysCorrectionFactor: 1.000000
+sysGeo.effectiveRingDiameter: 761.000000			sysGeo.effectiveRingDiameter: 761.000000
+sysGeo.blockRepeatFactor: 16					sysGeo.blockRepeatFactor: 16
+sysGeo.interCrystalPitch: 0.010590				sysGeo.interCrystalPitch: 0.010590
+sysGeo.interBlockPitch: 0.015360				sysGeo.interBlockPitch: 0.015360
+sysGeo.transaxial_crystal_0_offset: -4.399000			sysGeo.transaxial_crystal_0_offset: -4.399000
+sysGeo.photoMultiplierType: 2					sysGeo.photoMultiplierType: 2
+sysGeo.vqc_XaxisTranslation: -3.6				sysGeo.vqc_XaxisTranslation: -3.6
+sysGeo.vqc_YaxisTranslation: 2.8				sysGeo.vqc_YaxisTranslation: 2.8
+sysGeo.vqc_ZaxisTranslation: -1.3				sysGeo.vqc_ZaxisTranslation: -1.3
+sysGeo.vqc_XaxisTilt: -0.2					sysGeo.vqc_XaxisTilt: -0.2
+sysGeo.vqc_YaxisSwivel: -0.1					sysGeo.vqc_YaxisSwivel: -0.1
+sysGeo.vqc_ZaxisRoll: 0.2					sysGeo.vqc_ZaxisRoll: 0.2
+sysGeo.dt_3dpileUp_factors[0]: 0.000000				sysGeo.dt_3dpileUp_factors[0]: 0.000000
+sysGeo.dt_3dpileUp_factors[1]: 0.000000				sysGeo.dt_3dpileUp_factors[1]: 0.000000
+sysGeo.dt_3dpileUp_factors[2]: 0.000000				sysGeo.dt_3dpileUp_factors[2]: 0.000000
+sysGeo.dt_3dpileUp_factors[3]: 0.000000				sysGeo.dt_3dpileUp_factors[3]: 0.000000
+sysGeo.dt_3dpileUp_factors[4]: 0.000000				sysGeo.dt_3dpileUp_factors[4]: 0.000000
+sysGeo.dt_3dpileUp_factors[5]: 0.000000				sysGeo.dt_3dpileUp_factors[5]: 0.000000
+sysGeo.dt_3dpileUp_factors[6]: 0.000000				sysGeo.dt_3dpileUp_factors[6]: 0.000000
+sysGeo.dt_3dpileUp_factors[7]: 0.000000				sysGeo.dt_3dpileUp_factors[7]: 0.000000
+sysGeo.dt_3dpileUp_factors[8]: 0.000000				sysGeo.dt_3dpileUp_factors[8]: 0.000000
+sysGeo.dt_3dpileUp_factors[9]: 0.000000				sysGeo.dt_3dpileUp_factors[9]: 0.000000
+sysGeo.dt_3dpileUp_factors[10]: 0.000000			sysGeo.dt_3dpileUp_factors[10]: 0.000000
+sysGeo.dt_3dpileUp_factors[11]: 0.000000			sysGeo.dt_3dpileUp_factors[11]: 0.000000
+sysGeo.dt_3dpileUp_factors[12]: 0.000000			sysGeo.dt_3dpileUp_factors[12]: 0.000000
+sysGeo.dt_3dpileUp_factors[13]: 0.000000			sysGeo.dt_3dpileUp_factors[13]: 0.000000
+sysGeo.dt_3dpileUp_factors[14]: 0.000000			sysGeo.dt_3dpileUp_factors[14]: 0.000000
+sysGeo.dt_3dpileUp_factors[15]: 0.000000			sysGeo.dt_3dpileUp_factors[15]: 0.000000
+sysGeo.dt_3dpileUp_factors[16]: 0.000000			sysGeo.dt_3dpileUp_factors[16]: 0.000000
+sysGeo.dt_3dpileUp_factors[17]: 0.000000			sysGeo.dt_3dpileUp_factors[17]: 0.000000
+sysGeo.dt_3dpileUp_factors[18]: 0.000000			sysGeo.dt_3dpileUp_factors[18]: 0.000000
+sysGeo.dt_3dpileUp_factors[19]: 0.000000			sysGeo.dt_3dpileUp_factors[19]: 0.000000
+sysGeo.dt_3dpileUp_factors[20]: 0.000000			sysGeo.dt_3dpileUp_factors[20]: 0.000000
+sysGeo.dt_3dpileUp_factors[21]: 0.000000			sysGeo.dt_3dpileUp_factors[21]: 0.000000
+sysGeo.dt_3dpileUp_factors[22]: 0.000000			sysGeo.dt_3dpileUp_factors[22]: 0.000000
+sysGeo.dt_3dpileUp_factors[23]: 0.000000			sysGeo.dt_3dpileUp_factors[23]: 0.000000
+sysGeo.dt_3dpileUp_factors[24]: 0.000000			sysGeo.dt_3dpileUp_factors[24]: 0.000000
+sysGeo.dt_3dpileUp_factors[25]: 0.000000			sysGeo.dt_3dpileUp_factors[25]: 0.000000
+sysGeo.dt_3dpileUp_factors[26]: 0.000000			sysGeo.dt_3dpileUp_factors[26]: 0.000000
+sysGeo.dt_3dpileUp_factors[27]: 0.000000			sysGeo.dt_3dpileUp_factors[27]: 0.000000
+sysGeo.dt_3dpileUp_factors[28]: 0.000000			sysGeo.dt_3dpileUp_factors[28]: 0.000000
+sysGeo.dt_3dpileUp_factors[29]: 0.000000			sysGeo.dt_3dpileUp_factors[29]: 0.000000
+sysGeo.dt_3dpileUp_factors[30]: 0.000000			sysGeo.dt_3dpileUp_factors[30]: 0.000000
+sysGeo.dt_3dpileUp_factors[31]: 0.000000			sysGeo.dt_3dpileUp_factors[31]: 0.000000
+sysGeo.dt_3dpileUp_factors[32]: 0.000000			sysGeo.dt_3dpileUp_factors[32]: 0.000000
+sysGeo.dt_3dpileUp_factors[33]: 0.000000			sysGeo.dt_3dpileUp_factors[33]: 0.000000
+sysGeo.dt_3dpileUp_factors[34]: 0.000000			sysGeo.dt_3dpileUp_factors[34]: 0.000000
+sysGeo.dt_3dpileUp_factors[35]: 0.000000			sysGeo.dt_3dpileUp_factors[35]: 0.000000
+sysGeo.dt_3dintCorrectionConstant: 1.000000			sysGeo.dt_3dintCorrectionConstant: 1.000000
+sysGeo.dt_3dmuxCorrectionConstant: 0.000000			sysGeo.dt_3dmuxCorrectionConstant: 0.000000
+sysGeo.dt_3dtimingCorrectionConstant: 1.500000			sysGeo.dt_3dtimingCorrectionConstant: 1.500000
+sysGeo.collimatorType : 0					sysGeo.collimatorType : 0
+sysGeo.timingResolutionInPico : 0.000000			sysGeo.timingResolutionInPico : 0.000000
+sysGeo.avgBlockDeadtime: 0.001500				sysGeo.avgBlockDeadtime: 0.001500
+sysGeo.avgCrystalSingles: 51.790901				sysGeo.avgCrystalSingles: 51.790901
+-------------------------------------------------------------------------------------------------------------------------------
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+Module-based 3D crystal pileup parameters:			Module-based 3D crystal pileup parameters:
+Detector Module Temperatures: 					Detector Module Temperatures: 
+Module[ 0] :: 			21.50      			Module[ 0] :: 			21.50      		
+Module[ 1] :: 			21.50      			Module[ 1] :: 			21.50      		
+Module[ 2] :: 			22.00      			Module[ 2] :: 			22.00      		
+Module[ 3] :: 			21.75      			Module[ 3] :: 			21.75      		
+Module[ 4] :: 			21.25      			Module[ 4] :: 			21.25      		
+Module[ 5] :: 			21.38      			Module[ 5] :: 			21.38      		
+Module[ 6] :: 			21.62      			Module[ 6] :: 			21.62      		
+Module[ 7] :: 			22.00      			Module[ 7] :: 			22.00      		
+Module[ 8] :: 			21.50      			Module[ 8] :: 			21.50      		
+Module[ 9] :: 			21.88      			Module[ 9] :: 			21.88      		
+Module[10] :: 			21.62      			Module[10] :: 			21.62      		
+Module[11] :: 			21.38      			Module[11] :: 			21.38      		
+Module[12] :: 			21.25      			Module[12] :: 			21.25      		
+Module[13] :: 			21.12      			Module[13] :: 			21.12      		
+Module[14] :: 			21.75      			Module[14] :: 			21.75      		
+Module[15] :: 			21.38      			Module[15] :: 			21.38      		
+Module[16] :: 			21.50      			Module[16] :: 			21.50      		
+Module[17] :: 			21.75      			Module[17] :: 			21.75      		
+Module[18] :: 			21.25      			Module[18] :: 			21.25      		
+Module[19] :: 			21.75      			Module[19] :: 			21.75      		
+Module[20] :: 			21.62      			Module[20] :: 			21.62      		
+Module[21] :: 			21.88      			Module[21] :: 			21.88      		
+Module[22] :: 			21.50      			Module[22] :: 			21.50      		
+Module[23] :: 			21.38      			Module[23] :: 			21.38      		
+Module[24] :: 			21.75      			Module[24] :: 			21.75      		
+Module[25] :: 			22.12      			Module[25] :: 			22.12      		
+Module[26] :: 			21.88      			Module[26] :: 			21.88      		
+Module[27] :: 			21.75      			Module[27] :: 			21.75      		
+Module[28] :: 			21.75      			Module[28] :: 			21.75      		
+Module[29] :: 			22.00      			Module[29] :: 			22.00      		
+Module[30] :: 			21.50      			Module[30] :: 			21.50      		
+Module[31] :: 			21.50      			Module[31] :: 			21.50      		
+Module[32] :: 			21.38      			Module[32] :: 			21.38      		
+Module[33] :: 			21.75      			Module[33] :: 			21.75      		
+Detector Module Serial Nos.: 					Detector Module Serial Nos.: 
+                         Detector Module Serial Numbers 	                         Detector Module Serial Numbers 
+Module[ 0] ::  		                          ALPGMA	Module[ 0] ::  		                          ALPGMA
+Module[ 1] ::  		                          ALPH6Y	Module[ 1] ::  		                          ALPH6Y
+Module[ 2] ::  		                          ALPH7R	Module[ 2] ::  		                          ALPH7R
+Module[ 3] ::  		                          ALPH7F	Module[ 3] ::  		                          ALPH7F
+Module[ 4] ::  		                          ALPH6S	Module[ 4] ::  		                          ALPH6S
+Module[ 5] ::  		                          ALPGNA	Module[ 5] ::  		                          ALPGNA
+Module[ 6] ::  		                          ALPH7J	Module[ 6] ::  		                          ALPH7J
+Module[ 7] ::  		                          ALPH6R	Module[ 7] ::  		                          ALPH6R
+Module[ 8] ::  		                          ALPH72	Module[ 8] ::  		                          ALPH72
+Module[ 9] ::  		                          ALPH7Y	Module[ 9] ::  		                          ALPH7Y
+Module[10] ::  		                          ALPH6C	Module[10] ::  		                          ALPH6C
+Module[11] ::  		                          ALPH6J	Module[11] ::  		                          ALPH6J
+Module[12] ::  		                          ALPGNV	Module[12] ::  		                          ALPGNV
+Module[13] ::  		                          ALPGN0	Module[13] ::  		                          ALPGN0
+Module[14] ::  		                          ALPGMC	Module[14] ::  		                          ALPGMC
+Module[15] ::  		                          ALPH69	Module[15] ::  		                          ALPH69
+Module[16] ::  		                          ALPH6N	Module[16] ::  		                          ALPH6N
+Module[17] ::  		                          ALPH6G	Module[17] ::  		                          ALPH6G
+Module[18] ::  		                          ALPGMT	Module[18] ::  		                          ALPGMT
+Module[19] ::  		                          ALPH73	Module[19] ::  		                          ALPH73
+Module[20] ::  		                          ALPGND	Module[20] ::  		                          ALPGND
+Module[21] ::  		                          ALPH6Z	Module[21] ::  		                          ALPH6Z
+Module[22] ::  		                          ALPH6X	Module[22] ::  		                          ALPH6X
+Module[23] ::  		                          ALPH7H	Module[23] ::  		                          ALPH7H
+Module[24] ::  		                          ALPH6U	Module[24] ::  		                          ALPH6U
+Module[25] ::  		                          ALPH6T	Module[25] ::  		                          ALPH6T
+Module[26] ::  		                          ALPH71	Module[26] ::  		                          ALPH71
+Module[27] ::  		                          ALPH67	Module[27] ::  		                          ALPH67
+Module[28] ::  		                          ALPH79	Module[28] ::  		                          ALPH79
+Module[29] ::  		                          ALPH6D	Module[29] ::  		                          ALPH6D
+Module[30] ::  		                          ALPH7G	Module[30] ::  		                          ALPH7G
+Module[31] ::  		                          ALPH7E	Module[31] ::  		                          ALPH7E
+Module[32] ::  		                          ALPH6E	Module[32] ::  		                          ALPH6E
+Module[33] ::  		                          ALPH70	Module[33] ::  		                          ALPH70
+Module[ 0] ::       1         1         1         1         1	Module[ 0] ::       1         1         1         1         1
+Module[ 1] ::       1         1         1         1         1	Module[ 1] ::       1         1         1         1         1
+Module[ 2] ::       1         1         1         1         1	Module[ 2] ::       1         1         1         1         1
+Module[ 3] ::       1         1         1         1         1	Module[ 3] ::       1         1         1         1         1
+Module[ 4] ::       1         1         1         1         1	Module[ 4] ::       1         1         1         1         1
+Module[ 5] ::       1         1         1         1         1	Module[ 5] ::       1         1         1         1         1
+Module[ 6] ::       1         1         1         1         1	Module[ 6] ::       1         1         1         1         1
+Module[ 7] ::       1         1         1         1         1	Module[ 7] ::       1         1         1         1         1
+Module[ 8] ::       1         1         1         1         1	Module[ 8] ::       1         1         1         1         1
+Module[ 9] ::       1         1         1         1         1	Module[ 9] ::       1         1         1         1         1
+Module[10] ::       1         1         1         1         1	Module[10] ::       1         1         1         1         1
+Module[11] ::       1         1         1         1         1	Module[11] ::       1         1         1         1         1
+Module[12] ::       1         1         1         1         1	Module[12] ::       1         1         1         1         1
+Module[13] ::       1         1         1         1         1	Module[13] ::       1         1         1         1         1
+Module[14] ::       1         1         1         1         1	Module[14] ::       1         1         1         1         1
+Module[15] ::       1         1         1         1         1	Module[15] ::       1         1         1         1         1
+Module[16] ::       1         1         1         1         1	Module[16] ::       1         1         1         1         1
+Module[17] ::       1         1         1         1         1	Module[17] ::       1         1         1         1         1
+Module[18] ::       1         1         1         1         1	Module[18] ::       1         1         1         1         1
+Module[19] ::       1         1         1         1         1	Module[19] ::       1         1         1         1         1
+Module[20] ::       1         1         1         1         1	Module[20] ::       1         1         1         1         1
+Module[21] ::       1         1         1         1         1	Module[21] ::       1         1         1         1         1
+Module[22] ::       1         1         1         1         1	Module[22] ::       1         1         1         1         1
+Module[23] ::       1         1         1         1         1	Module[23] ::       1         1         1         1         1
+Module[24] ::       1         1         1         1         1	Module[24] ::       1         1         1         1         1
+Module[25] ::       1         1         1         1         1	Module[25] ::       1         1         1         1         1
+Module[26] ::       1         1         1         1         1	Module[26] ::       1         1         1         1         1
+Module[27] ::       1         1         1         1         1	Module[27] ::       1         1         1         1         1
+Module[28] ::       1         1         1         1         1	Module[28] ::       1         1         1         1         1
+Module[29] ::       1         1         1         1         1	Module[29] ::       1         1         1         1         1
+Module[30] ::       1         1         1         1         1	Module[30] ::       1         1         1         1         1
+Module[31] ::       1         1         1         1         1	Module[31] ::       1         1         1         1         1
+Module[32] ::       1         1         1         1         1	Module[32] ::       1         1         1         1         1
+Module[33] ::       1         1         1         1         1	Module[33] ::       1         1         1         1         1
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+Module-based 3D crystal pileup parameters:			Module-based 3D crystal pileup parameters:
+Detector Module Temperatures: 					Detector Module Temperatures: 
+Module[ 0] :: 			21.62      			Module[ 0] :: 			21.62      		
+Module[ 1] :: 			21.50      			Module[ 1] :: 			21.50      		
+Module[ 2] :: 			22.12      			Module[ 2] :: 			22.12      		
+Module[ 3] :: 			21.62      			Module[ 3] :: 			21.62      		
+Module[ 4] :: 			21.38      			Module[ 4] :: 			21.38      		
+Module[ 5] :: 			21.25      			Module[ 5] :: 			21.25      		
+Module[ 6] :: 			21.62      			Module[ 6] :: 			21.62      		
+Module[ 7] :: 			21.75      			Module[ 7] :: 			21.75      		
+Module[ 8] :: 			21.62      			Module[ 8] :: 			21.62      		
+Module[ 9] :: 			22.00      			Module[ 9] :: 			22.00      		
+Module[10] :: 			21.88      			Module[10] :: 			21.88      		
+Module[11] :: 			21.38      			Module[11] :: 			21.38      		
+Module[12] :: 			21.38      			Module[12] :: 			21.38      		
+Module[13] :: 			21.38      			Module[13] :: 			21.38      		
+Module[14] :: 			21.88      			Module[14] :: 			21.88      		
+Module[15] :: 			21.25      			Module[15] :: 			21.25      		
+Module[16] :: 			21.38      			Module[16] :: 			21.38      		
+Module[17] :: 			21.75      			Module[17] :: 			21.75      		
+Module[18] :: 			21.12      			Module[18] :: 			21.12      		
+Module[19] :: 			21.62      			Module[19] :: 			21.62      		
+Module[20] :: 			21.75      			Module[20] :: 			21.75      		
+Module[21] :: 			21.62      			Module[21] :: 			21.62      		
+Module[22] :: 			21.25      			Module[22] :: 			21.25      		
+Module[23] :: 			21.50      			Module[23] :: 			21.50      		
+Module[24] :: 			21.75      			Module[24] :: 			21.75      		
+Module[25] :: 			22.25      			Module[25] :: 			22.25      		
+Module[26] :: 			21.88      			Module[26] :: 			21.88      		
+Module[27] :: 			21.62      			Module[27] :: 			21.62      		
+Module[28] :: 			21.50      			Module[28] :: 			21.50      		
+Module[29] :: 			21.88      			Module[29] :: 			21.88      		
+Module[30] :: 			21.62      			Module[30] :: 			21.62      		
+Module[31] :: 			21.50      			Module[31] :: 			21.50      		
+Module[32] :: 			21.50      			Module[32] :: 			21.50      		
+Module[33] :: 			21.62      			Module[33] :: 			21.62      		
+Detector Module Serial Nos.: 					Detector Module Serial Nos.: 
+                         Detector Module Serial Numbers 	                         Detector Module Serial Numbers 
+Module[ 0] ::  		                          ALPGMA	Module[ 0] ::  		                          ALPGMA
+Module[ 1] ::  		                          ALPH6Y	Module[ 1] ::  		                          ALPH6Y
+Module[ 2] ::  		                          ALPH7R	Module[ 2] ::  		                          ALPH7R
+Module[ 3] ::  		                          ALPH7F	Module[ 3] ::  		                          ALPH7F
+Module[ 4] ::  		                          ALPH6S	Module[ 4] ::  		                          ALPH6S
+Module[ 5] ::  		                          ALPGNA	Module[ 5] ::  		                          ALPGNA
+Module[ 6] ::  		                          ALPH7J	Module[ 6] ::  		                          ALPH7J
+Module[ 7] ::  		                          ALPH6R	Module[ 7] ::  		                          ALPH6R
+Module[ 8] ::  		                          ALPH72	Module[ 8] ::  		                          ALPH72
+Module[ 9] ::  		                          ALPH7Y	Module[ 9] ::  		                          ALPH7Y
+Module[10] ::  		                          ALPH6C	Module[10] ::  		                          ALPH6C
+Module[11] ::  		                          ALPH6J	Module[11] ::  		                          ALPH6J
+Module[12] ::  		                          ALPGNV	Module[12] ::  		                          ALPGNV
+Module[13] ::  		                          ALPGN0	Module[13] ::  		                          ALPGN0
+Module[14] ::  		                          ALPGMC	Module[14] ::  		                          ALPGMC
+Module[15] ::  		                          ALPH69	Module[15] ::  		                          ALPH69
+Module[16] ::  		                          ALPH6N	Module[16] ::  		                          ALPH6N
+Module[17] ::  		                          ALPH6G	Module[17] ::  		                          ALPH6G
+Module[18] ::  		                          ALPGMT	Module[18] ::  		                          ALPGMT
+Module[19] ::  		                          ALPH73	Module[19] ::  		                          ALPH73
+Module[20] ::  		                          ALPGND	Module[20] ::  		                          ALPGND
+Module[21] ::  		                          ALPH6Z	Module[21] ::  		                          ALPH6Z
+Module[22] ::  		                          ALPH6X	Module[22] ::  		                          ALPH6X
+Module[23] ::  		                          ALPH7H	Module[23] ::  		                          ALPH7H
+Module[24] ::  		                          ALPH6U	Module[24] ::  		                          ALPH6U
+Module[25] ::  		                          ALPH6T	Module[25] ::  		                          ALPH6T
+Module[26] ::  		                          ALPH71	Module[26] ::  		                          ALPH71
+Module[27] ::  		                          ALPH67	Module[27] ::  		                          ALPH67
+Module[28] ::  		                          ALPH79	Module[28] ::  		                          ALPH79
+Module[29] ::  		                          ALPH6D	Module[29] ::  		                          ALPH6D
+Module[30] ::  		                          ALPH7G	Module[30] ::  		                          ALPH7G
+Module[31] ::  		                          ALPH7E	Module[31] ::  		                          ALPH7E
+Module[32] ::  		                          ALPH6E	Module[32] ::  		                          ALPH6E
+Module[33] ::  		                          ALPH70	Module[33] ::  		                          ALPH70
+Module[ 0] ::       1         1         1         1         1	Module[ 0] ::       1         1         1         1         1
+Module[ 1] ::       1         1         1         1         1	Module[ 1] ::       1         1         1         1         1
+Module[ 2] ::       1         1         1         1         1	Module[ 2] ::       1         1         1         1         1
+Module[ 3] ::       1         1         1         1         1	Module[ 3] ::       1         1         1         1         1
+Module[ 4] ::       1         1         1         1         1	Module[ 4] ::       1         1         1         1         1
+Module[ 5] ::       1         1         1         1         1	Module[ 5] ::       1         1         1         1         1
+Module[ 6] ::       1         1         1         1         1	Module[ 6] ::       1         1         1         1         1
+Module[ 7] ::       1         1         1         1         1	Module[ 7] ::       1         1         1         1         1
+Module[ 8] ::       1         1         1         1         1	Module[ 8] ::       1         1         1         1         1
+Module[ 9] ::       1         1         1         1         1	Module[ 9] ::       1         1         1         1         1
+Module[10] ::       1         1         1         1         1	Module[10] ::       1         1         1         1         1
+Module[11] ::       1         1         1         1         1	Module[11] ::       1         1         1         1         1
+Module[12] ::       1         1         1         1         1	Module[12] ::       1         1         1         1         1
+Module[13] ::       1         1         1         1         1	Module[13] ::       1         1         1         1         1
+Module[14] ::       1         1         1         1         1	Module[14] ::       1         1         1         1         1
+Module[15] ::       1         1         1         1         1	Module[15] ::       1         1         1         1         1
+Module[16] ::       1         1         1         1         1	Module[16] ::       1         1         1         1         1
+Module[17] ::       1         1         1         1         1	Module[17] ::       1         1         1         1         1
+Module[18] ::       1         1         1         1         1	Module[18] ::       1         1         1         1         1
+Module[19] ::       1         1         1         1         1	Module[19] ::       1         1         1         1         1
+Module[20] ::       1         1         1         1         1	Module[20] ::       1         1         1         1         1
+Module[21] ::       1         1         1         1         1	Module[21] ::       1         1         1         1         1
+Module[22] ::       1         1         1         1         1	Module[22] ::       1         1         1         1         1
+Module[23] ::       1         1         1         1         1	Module[23] ::       1         1         1         1         1
+Module[24] ::       1         1         1         1         1	Module[24] ::       1         1         1         1         1
+Module[25] ::       1         1         1         1         1	Module[25] ::       1         1         1         1         1
+Module[26] ::       1         1         1         1         1	Module[26] ::       1         1         1         1         1
+Module[27] ::       1         1         1         1         1	Module[27] ::       1         1         1         1         1
+Module[28] ::       1         1         1         1         1	Module[28] ::       1         1         1         1         1
+Module[29] ::       1         1         1         1         1	Module[29] ::       1         1         1         1         1
+Module[30] ::       1         1         1         1         1	Module[30] ::       1         1         1         1         1
+Module[31] ::       1         1         1         1         1	Module[31] ::       1         1         1         1         1
+Module[32] ::       1         1         1         1         1	Module[32] ::       1         1         1         1         1
+Module[33] ::       1         1         1         1         1	Module[33] ::       1         1         1         1         1
+sysGeo.radialModulesPerSystem: 34				sysGeo.radialModulesPerSystem: 34
+sysGeo.radialUnitsPerModule: 1					sysGeo.radialUnitsPerModule: 1
+sysGeo.radialBlocksPerModule: 4					sysGeo.radialBlocksPerModule: 4
+sysGeo.axialModulesPerSystem: 1					sysGeo.axialModulesPerSystem: 1
+sysGeo.axialUnitsPerModule: 4					sysGeo.axialUnitsPerModule: 4
+sysGeo.axialBlocksPerModule: 4					sysGeo.axialBlocksPerModule: 4
+Module-based 3D crystal pileup parameters:			Module-based 3D crystal pileup parameters:
+Detector Module Temperatures: 					Detector Module Temperatures: 
+Module[ 0] :: 			21.62      			Module[ 0] :: 			21.62      		
+Module[ 1] :: 			21.62      			Module[ 1] :: 			21.62      		
+Module[ 2] :: 			22.25      			Module[ 2] :: 			22.25      		
+Module[ 3] :: 			21.62      			Module[ 3] :: 			21.62      		
+Module[ 4] :: 			21.38      			Module[ 4] :: 			21.38      		
+Module[ 5] :: 			21.38      			Module[ 5] :: 			21.38      		
+Module[ 6] :: 			21.62      			Module[ 6] :: 			21.62      		
+Module[ 7] :: 			21.62      			Module[ 7] :: 			21.62      		
+Module[ 8] :: 			21.25      			Module[ 8] :: 			21.25      		
+Module[ 9] :: 			22.00      			Module[ 9] :: 			22.00      		
+Module[10] :: 			21.62      			Module[10] :: 			21.62      		
+Module[11] :: 			21.50      			Module[11] :: 			21.50      		
+Module[12] :: 			21.12      			Module[12] :: 			21.12      		
+Module[13] :: 			21.38      			Module[13] :: 			21.38      		
+Module[14] :: 			21.75      			Module[14] :: 			21.75      		
+Module[15] :: 			21.62      			Module[15] :: 			21.62      		
+Module[16] :: 			21.62      			Module[16] :: 			21.62      		
+Module[17] :: 			21.88      			Module[17] :: 			21.88      		
+Module[18] :: 			21.38      			Module[18] :: 			21.38      		
+Module[19] :: 			21.50      			Module[19] :: 			21.50      		
+Module[20] :: 			21.62      			Module[20] :: 			21.62      		
+Module[21] :: 			21.75      			Module[21] :: 			21.75      		
+Module[22] :: 			21.38      			Module[22] :: 			21.38      		
+Module[23] :: 			21.62      			Module[23] :: 			21.62      		
+Module[24] :: 			21.75      			Module[24] :: 			21.75      		
+Module[25] :: 			22.38      			Module[25] :: 			22.38      		
+Module[26] :: 			22.12      			Module[26] :: 			22.12      		
+Module[27] :: 			21.38      			Module[27] :: 			21.38      		
+Module[28] :: 			21.75      			Module[28] :: 			21.75      		
+Module[29] :: 			21.88      			Module[29] :: 			21.88      		
+Module[30] :: 			21.50      			Module[30] :: 			21.50      		
+Module[31] :: 			21.62      			Module[31] :: 			21.62      		
+Module[32] :: 			21.50      			Module[32] :: 			21.50      		
+Module[33] :: 			21.62      			Module[33] :: 			21.62      		
+Detector Module Serial Nos.: 					Detector Module Serial Nos.: 
+                         Detector Module Serial Numbers 	                         Detector Module Serial Numbers 
+Module[ 0] ::  		                          ALPGMA	Module[ 0] ::  		                          ALPGMA
+Module[ 1] ::  		                          ALPH6Y	Module[ 1] ::  		                          ALPH6Y
+Module[ 2] ::  		                          ALPH7R	Module[ 2] ::  		                          ALPH7R
+Module[ 3] ::  		                          ALPH7F	Module[ 3] ::  		                          ALPH7F
+Module[ 4] ::  		                          ALPH6S	Module[ 4] ::  		                          ALPH6S
+Module[ 5] ::  		                          ALPGNA	Module[ 5] ::  		                          ALPGNA
+Module[ 6] ::  		                          ALPH7J	Module[ 6] ::  		                          ALPH7J
+Module[ 7] ::  		                          ALPH6R	Module[ 7] ::  		                          ALPH6R
+Module[ 8] ::  		                          ALPH72	Module[ 8] ::  		                          ALPH72
+Module[ 9] ::  		                          ALPH7Y	Module[ 9] ::  		                          ALPH7Y
+Module[10] ::  		                          ALPH6C	Module[10] ::  		                          ALPH6C
+Module[11] ::  		                          ALPH6J	Module[11] ::  		                          ALPH6J
+Module[12] ::  		                          ALPGNV	Module[12] ::  		                          ALPGNV
+Module[13] ::  		                          ALPGN0	Module[13] ::  		                          ALPGN0
+Module[14] ::  		                          ALPGMC	Module[14] ::  		                          ALPGMC
+Module[15] ::  		                          ALPH69	Module[15] ::  		                          ALPH69
+Module[16] ::  		                          ALPH6N	Module[16] ::  		                          ALPH6N
+Module[17] ::  		                          ALPH6G	Module[17] ::  		                          ALPH6G
+Module[18] ::  		                          ALPGMT	Module[18] ::  		                          ALPGMT
+Module[19] ::  		                          ALPH73	Module[19] ::  		                          ALPH73
+Module[20] ::  		                          ALPGND	Module[20] ::  		                          ALPGND
+Module[21] ::  		                          ALPH6Z	Module[21] ::  		                          ALPH6Z
+Module[22] ::  		                          ALPH6X	Module[22] ::  		                          ALPH6X
+Module[23] ::  		                          ALPH7H	Module[23] ::  		                          ALPH7H
+Module[24] ::  		                          ALPH6U	Module[24] ::  		                          ALPH6U
+Module[25] ::  		                          ALPH6T	Module[25] ::  		                          ALPH6T
+Module[26] ::  		                          ALPH71	Module[26] ::  		                          ALPH71
+Module[27] ::  		                          ALPH67	Module[27] ::  		                          ALPH67
+Module[28] ::  		                          ALPH79	Module[28] ::  		                          ALPH79
+Module[29] ::  		                          ALPH6D	Module[29] ::  		                          ALPH6D
+Module[30] ::  		                          ALPH7G	Module[30] ::  		                          ALPH7G
+Module[31] ::  		                          ALPH7E	Module[31] ::  		                          ALPH7E
+Module[32] ::  		                          ALPH6E	Module[32] ::  		                          ALPH6E
+Module[33] ::  		                          ALPH70	Module[33] ::  		                          ALPH70
+Module[ 0] ::       1         1         1         1         1	Module[ 0] ::       1         1         1         1         1
+Module[ 1] ::       1         1         1         1         1	Module[ 1] ::       1         1         1         1         1
+Module[ 2] ::       1         1         1         1         1	Module[ 2] ::       1         1         1         1         1
+Module[ 3] ::       1         1         1         1         1	Module[ 3] ::       1         1         1         1         1
+Module[ 4] ::       1         1         1         1         1	Module[ 4] ::       1         1         1         1         1
+Module[ 5] ::       1         1         1         1         1	Module[ 5] ::       1         1         1         1         1
+Module[ 6] ::       1         1         1         1         1	Module[ 6] ::       1         1         1         1         1
+Module[ 7] ::       1         1         1         1         1	Module[ 7] ::       1         1         1         1         1
+Module[ 8] ::       1         1         1         1         1	Module[ 8] ::       1         1         1         1         1
+Module[ 9] ::       1         1         1         1         1	Module[ 9] ::       1         1         1         1         1
+Module[10] ::       1         1         1         1         1	Module[10] ::       1         1         1         1         1
+Module[11] ::       1         1         1         1         1	Module[11] ::       1         1         1         1         1
+Module[12] ::       1         1         1         1         1	Module[12] ::       1         1         1         1         1
+Module[13] ::       1         1         1         1         1	Module[13] ::       1         1         1         1         1
+Module[14] ::       1         1         1         1         1	Module[14] ::       1         1         1         1         1
+Module[15] ::       1         1         1         1         1	Module[15] ::       1         1         1         1         1
+Module[16] ::       1         1         1         1         1	Module[16] ::       1         1         1         1         1
+Module[17] ::       1         1         1         1         1	Module[17] ::       1         1         1         1         1
+Module[18] ::       1         1         1         1         1	Module[18] ::       1         1         1         1         1
+Module[19] ::       1         1         1         1         1	Module[19] ::       1         1         1         1         1
+Module[20] ::       1         1         1         1         1	Module[20] ::       1         1         1         1         1
+Module[21] ::       1         1         1         1         1	Module[21] ::       1         1         1         1         1
+Module[22] ::       1         1         1         1         1	Module[22] ::       1         1         1         1         1
+Module[23] ::       1         1         1         1         1	Module[23] ::       1         1         1         1         1
+Module[24] ::       1         1         1         1         1	Module[24] ::       1         1         1         1         1
+Module[25] ::       1         1         1         1         1	Module[25] ::       1         1         1         1         1
+Module[26] ::       1         1         1         1         1	Module[26] ::       1         1         1         1         1
+Module[27] ::       1         1         1         1         1	Module[27] ::       1         1         1         1         1
+Module[28] ::       1         1         1         1         1	Module[28] ::       1         1         1         1         1
+Module[29] ::       1         1         1         1         1	Module[29] ::       1         1         1         1         1
+Module[30] ::       1         1         1         1         1	Module[30] ::       1         1         1         1         1
+Module[31] ::       1         1         1         1         1	Module[31] ::       1         1         1         1         1
+Module[32] ::       1         1         1         1         1	Module[32] ::       1         1         1         1         1
+Module[33] ::       1         1         1         1         1	Module[33] ::       1         1         1         1         1
