@@ -1,0 +1,34 @@
+17:15:51.837 Main.Info  ListTool.cpp(1563) in processListLoss(): There is an mismatch between deadtime period and list period!
+17:15:51.838 Main.Info  ListTool.cpp(1564) in processListLoss(): Deadtime duration: 131.0 List Duration: 130.0
+Attempting to align deadtime samples and list file
+Discarding deadtime sample number 1
+List data has been aligned to deadtime sample number 2
+Prompt events lost due to alignment=7411201
+Missing timemarkers detected before alignment: 0
+I/O processing statistics: 1664130131.0 events in 32.062s at 51903503.6 events/sec
+
+Statistics for List file
+First Time Marker: 13545
+Last Time Marker: 143545
+Delta Time: 130000
+Time Markers: 130001
+Total Prompts: 1664000000
+Maximum time difference between timemarkers: 1
+Percent missing timemarkers in list file: 0%
+
+Aligned List statistics:
+Aligned duration: 129.000000 seconds
+Maximum time difference between timemarkers: 1 millecond(s)
+Aligned Deadtime Prompt Total: 1651199934 prompts. Aligned List Prompt Total: 1651200000 prompts
+Average Deadtime Prompt Rate: 12799999.488372 prompts. Average List Prompt Rate: 12800000.000000 prompts
+
+Aligned List Loss statistics. (Values are difference between deadtime and list)
+Total Missing Timemarkers: 0
+Maximum list loss rate: 217
+Minimum list loss rate: -321
+Total list loss rate -66
+Average list loss rate: 0.000000
+Standard Deviation: 113.235503
+Percent list loss in aligned section: 0.000004%
+
+Output file /usr/g/ctuser/EQ_Automation/Acq_4D_ListMode_Workflow_DOC1758729/Acq4D.1162/ListLoss0.csv successfully created
